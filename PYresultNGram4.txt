@@ -1,0 +1,5864 @@
+ai
+-1   0    0    PY
+aida
+-1   0    0    PY
+aidan
+-1   1    2    PY
+aide
+1   0    0    ENG
+aiken
+-3   0    3    PY
+aila
+1   0    0    ENG
+aile
+1   0    0    ENG
+aileen
+-2   1    3    PY
+ailene
+2   3    1    ENG
+aili
+1   0    0    ENG
+ailina
+2   3    1    ENG
+aime
+1   0    0    ENG
+ainu
+-1   0    0    PY
+airedale
+-4   1    5    PY
+aisha
+-3   0    3    PY
+an
+1   0    0    ENG
+andalusian
+0   4    4    PY
+andaman
+1   3    2    ENG
+andante
+3   4    1    ENG
+andean
+0   2    2    PY
+andi
+1   0    0    ENG
+andie
+1   2    1    ENG
+ange
+1   0    0    ENG
+angela
+0   2    2    PY
+angele
+0   2    2    PY
+angeli
+0   2    2    PY
+angelica
+2   4    2    ENG
+angelika
+-2   2    4    PY
+angelina
+2   4    2    ENG
+angeline
+2   4    2    ENG
+angelique
+1   4    3    ENG
+angelita
+2   4    2    ENG
+angelou
+-1   2    3    PY
+anger
+1   2    1    ENG
+angie
+-1   1    2    PY
+angle
+1   2    1    ENG
+anglican
+2   4    2    ENG
+anglicize
+1   4    3    ENG
+angling
+3   4    1    ENG
+anna
+1   0    0    ENG
+annaliese
+1   4    3    ENG
+annalise
+2   4    2    ENG
+annamarie
+-1   3    4    PY
+anne
+1   0    0    ENG
+anneliese
+1   4    3    ENG
+annelise
+0   3    3    PY
+annemarie
+1   4    3    ENG
+anni
+1   0    0    ENG
+annice
+0   2    2    PY
+annie
+-1   1    2    PY
+annuli
+0   2    2    PY
+anshan
+0   2    2    PY
+ansi
+1   0    0    ENG
+ante
+1   0    0    ENG
+antecedence
+5   7    2    ENG
+antedate
+-2   2    4    PY
+antenna
+1   3    2    ENG
+anti
+1   0    0    ENG
+anticipate
+6   7    1    ENG
+antigen
+-1   2    3    PY
+antigua
+-1   2    3    PY
+antin
+1   2    1    ENG
+anting
+2   3    1    ENG
+antipode
+-4   1    5    PY
+antipodean
+-6   1    7    PY
+antiquarian
+1   5    4    ENG
+antiquate
+1   4    3    ENG
+antique
+1   3    2    ENG
+anya
+-1   0    0    PY
+ba
+-1   0    0    PY
+babiniuzifengmeizhuang
+-14   3    17    PY
+babinongminmeizhuang
+-12   3    15    PY
+babinvhaifanxiaohuazhuang
+-17   3    20    PY
+babipaiduimeizhuang
+-13   2    15    PY
+babipaiximeizhuang
+-14   1    15    PY
+babiqiaopizhuang
+-12   1    13    PY
+babiqunaer
+-6   1    7    PY
+babiqunaerbizhizhutizhuomianmeihua
+-28   2    30    PY
+babiqunaerdianxinzhutibizhimeihua
+-19   6    25    PY
+babishengdanhuanzhuang
+-10   5    15    PY
+babishoubuyisheng
+-1   7    8    PY
+babita
+2   3    1    ENG
+babiwawa
+-4   1    5    PY
+bade
+-1   0    0    PY
+baden
+-1   1    2    PY
+badinage
+2   4    2    ENG
+baha
+-1   0    0    PY
+bahama
+-4   0    4    PY
+bahamanian
+-4   2    6    PY
+bahamian
+-2   2    4    PY
+bailie
+0   2    2    PY
+baize
+-3   0    3    PY
+bake
+1   0    0    ENG
+bakehouse
+-1   3    4    PY
+bakelite
+0   3    3    PY
+baku
+-1   0    0    PY
+bakunin
+-3   1    4    PY
+balalaika
+-5   1    6    PY
+balance
+3   4    1    ENG
+balanchine
+6   7    1    ENG
+bale
+-1   0    0    PY
+baleen
+-4   0    4    PY
+bali
+-1   0    0    PY
+balinese
+2   4    2    ENG
+ban
+-1   0    0    PY
+banana
+-4   0    4    PY
+bandage
+3   4    1    ENG
+bandanna
+2   4    2    ENG
+banding
+3   4    1    ENG
+bane
+-1   0    0    PY
+bang
+-1   0    0    PY
+banger
+0   2    2    PY
+bangladeshi
+3   6    3    ENG
+bangle
+0   2    2    PY
+bangui
+0   2    2    PY
+bani
+-1   0    0    PY
+banning
+3   4    1    ENG
+banting
+1   3    2    ENG
+bantu
+-3   0    3    PY
+banyan
+-4   0    4    PY
+banzai
+-4   0    4    PY
+baotou
+-4   0    4    PY
+bare
+1   0    0    ENG
+base
+1   0    0    ENG
+baseline
+2   4    2    ENG
+baseman
+1   3    2    ENG
+basemen
+1   3    2    ENG
+basie
+1   2    1    ENG
+basile
+2   3    1    ENG
+basilica
+4   5    1    ENG
+basin
+1   2    1    ENG
+bataan
+-4   0    4    PY
+bate
+1   0    0    ENG
+batu
+-1   0    0    PY
+baxie
+-3   0    3    PY
+bayesian
+-4   1    5    PY
+bayou
+-1   1    2    PY
+beige
+-3   0    3    PY
+beijing
+-5   0    5    PY
+ben
+-1   0    0    PY
+bendite
+3   4    1    ENG
+bengali
+-3   1    4    PY
+benghazi
+-6   0    6    PY
+benji
+-1   1    2    PY
+benjie
+-2   1    3    PY
+benni
+1   2    1    ENG
+bennie
+0   2    2    PY
+benyamin
+-4   1    5    PY
+benzene
+-5   0    5    PY
+benzine
+-5   0    5    PY
+bi
+-1   0    0    PY
+bianca
+-2   1    3    PY
+bianka
+-4   0    4    PY
+bibi
+-1   0    0    PY
+bide
+-1   0    0    PY
+biding
+0   2    2    PY
+bier
+1   0    0    ENG
+bierce
+2   3    1    ENG
+bijou
+-3   0    3    PY
+bike
+-1   0    0    PY
+bile
+-1   0    0    PY
+bili
+1   0    0    ENG
+bimini
+0   2    2    PY
+bin
+-1   0    0    PY
+binding
+3   4    1    ENG
+bing
+-1   0    0    PY
+binge
+-1   1    2    PY
+bini
+1   0    0    ENG
+binni
+-1   1    2    PY
+binnie
+-2   1    3    PY
+binning
+1   3    2    ENG
+bite
+1   0    0    ENG
+biting
+2   3    1    ENG
+bitumen
+-1   2    3    PY
+bo
+-1   0    0    PY
+bobina
+-2   1    3    PY
+bobine
+-2   1    3    PY
+boca
+-1   0    0    PY
+bode
+-1   0    0    PY
+bodega
+-4   0    4    PY
+bodice
+0   2    2    PY
+boding
+2   3    1    ENG
+boer
+-1   0    0    PY
+bogie
+-3   0    3    PY
+boheme
+2   3    1    ENG
+bohemian
+0   3    3    PY
+bola
+-1   0    0    PY
+bole
+-1   0    0    PY
+bona
+1   0    0    ENG
+bonanza
+-3   1    4    PY
+bone
+1   0    0    ENG
+bong
+-1   0    0    PY
+boniface
+-4   1    5    PY
+bonita
+0   2    2    PY
+bore
+1   0    0    ENG
+boru
+-1   0    0    PY
+bose
+-1   0    0    PY
+bosun
+-3   0    3    PY
+botulin
+-3   1    4    PY
+boutique
+0   3    3    PY
+bowen
+-1   1    2    PY
+bowie
+-1   1    2    PY
+boxing
+-2   1    3    PY
+bu
+-1   0    0    PY
+bubo
+-1   0    0    PY
+buchanan
+-2   2    4    PY
+buena
+-3   0    3    PY
+bun
+-1   0    0    PY
+bunche
+2   3    1    ENG
+bunin
+-1   1    2    PY
+bunni
+-1   1    2    PY
+bunnie
+-2   1    3    PY
+bunsen
+0   2    2    PY
+bunting
+1   3    2    ENG
+bunyan
+-2   1    3    PY
+burundi
+-3   1    4    PY
+burundian
+-1   3    4    PY
+butane
+0   2    2    PY
+butene
+2   3    1    ENG
+ca
+-1   0    0    PY
+cabala
+-2   1    3    PY
+cabana
+-2   1    3    PY
+cabin
+1   2    1    ENG
+cacao
+-3   0    3    PY
+cache
+-1   1    2    PY
+cacilie
+1   3    2    ENG
+cadence
+3   4    1    ENG
+cadenza
+-1   2    3    PY
+caducei
+-3   1    4    PY
+cage
+-1   0    0    PY
+cai
+-1   0    0    PY
+caiman
+-4   0    4    PY
+caine
+-1   1    2    PY
+cajun
+-3   0    3    PY
+cake
+-1   0    0    PY
+calamine
+4   5    1    ENG
+cale
+1   0    0    ENG
+cali
+1   0    0    ENG
+caliban
+-1   2    3    PY
+calida
+0   2    2    PY
+caligula
+0   3    3    PY
+calv
+-1   0    0    PY
+camala
+-2   1    3    PY
+came
+1   0    0    ENG
+cami
+-1   0    0    PY
+camila
+0   2    2    PY
+camile
+0   2    2    PY
+camomile
+-2   2    4    PY
+can
+1   0    0    ENG
+canaan
+-2   1    3    PY
+canada
+0   2    2    PY
+canadian
+4   5    1    ENG
+canalize
+4   5    1    ENG
+cancan
+-2   1    3    PY
+cancelate
+3   5    2    ENG
+cancun
+-2   1    3    PY
+candace
+-1   2    3    PY
+candi
+1   2    1    ENG
+candice
+1   3    2    ENG
+candida
+3   4    1    ENG
+candidate
+5   6    1    ENG
+candidature
+5   7    2    ENG
+candide
+1   3    2    ENG
+candie
+2   3    1    ENG
+cane
+1   0    0    ENG
+caner
+-1   1    2    PY
+canine
+0   2    2    PY
+caning
+0   2    2    PY
+cannibalize
+-1   4    5    PY
+canning
+3   4    1    ENG
+cantabile
+1   4    3    ENG
+cantata
+3   4    1    ENG
+canteen
+3   4    1    ENG
+cantu
+-1   1    2    PY
+canute
+-2   1    3    PY
+canzhuoshuiguozhutibizhi
+-20   1    21    PY
+caocaobiexiaozhang
+-12   2    14    PY
+caocaochuan
+-7   1    8    PY
+caocaolailiao
+-7   2    9    PY
+caocaoqunaer
+-10   0    10    PY
+caochang
+0   3    3    PY
+caochongchengxiang
+-14   1    15    PY
+caochuanjiejian
+-11   1    12    PY
+caodandiqingchun
+-12   1    13    PY
+caodandirensheng
+0   7    7    PY
+caodi
+-3   0    3    PY
+caodilouzhu
+-9   0    9    PY
+capacitance
+7   8    1    ENG
+capacitate
+6   7    1    ENG
+capita
+2   3    1    ENG
+capitalize
+6   7    1    ENG
+capitan
+3   4    1    ENG
+capitulate
+2   5    3    ENG
+capo
+-1   0    0    PY
+capone
+0   2    2    PY
+capote
+-2   1    3    PY
+care
+1   0    0    ENG
+careen
+2   3    1    ENG
+career
+0   2    2    PY
+caren
+1   2    1    ENG
+carena
+2   3    1    ENG
+caresa
+2   3    1    ENG
+carie
+1   2    1    ENG
+carin
+1   2    1    ENG
+carouse
+3   4    1    ENG
+carven
+0   2    2    PY
+carver
+-2   1    3    PY
+casaba
+-4   0    4    PY
+case
+1   0    0    ENG
+cashier
+1   3    2    ENG
+casi
+1   0    0    ENG
+casie
+1   2    1    ENG
+catalan
+1   3    2    ENG
+catalina
+4   5    1    ENG
+catamaran
+-1   3    4    PY
+cate
+1   0    0    ENG
+catechize
+-1   3    4    PY
+catenate
+4   5    1    ENG
+cati
+1   0    0    ENG
+catie
+1   2    1    ENG
+catiline
+2   4    2    ENG
+catina
+2   3    1    ENG
+catv
+-1   0    0    PY
+caye
+-1   0    0    PY
+cayenne
+-3   1    4    PY
+cayuga
+-4   0    4    PY
+cayuse
+-4   0    4    PY
+ce
+-1   0    0    PY
+cebu
+-1   0    0    PY
+ceca
+-1   0    0    PY
+cece
+-1   0    0    PY
+cecile
+-4   0    4    PY
+cede
+1   0    0    ENG
+ceding
+2   3    1    ENG
+ceiling
+3   4    1    ENG
+celandine
+3   5    2    ENG
+celanese
+2   4    2    ENG
+cele
+1   0    0    ENG
+celene
+2   3    1    ENG
+celibate
+-2   2    4    PY
+celie
+-1   1    2    PY
+celina
+0   2    2    PY
+celinda
+-1   2    3    PY
+celine
+0   2    2    PY
+celinka
+-1   2    3    PY
+cementa
+3   4    1    ENG
+censure
+3   4    1    ENG
+centenarian
+5   7    2    ENG
+centime
+3   4    1    ENG
+cerulean
+-2   2    4    PY
+cesare
+-2   1    3    PY
+cesarean
+-2   2    4    PY
+cetacean
+-4   1    5    PY
+cezanne
+-3   1    4    PY
+chadian
+-1   2    3    PY
+chaise
+0   2    2    PY
+chalice
+1   3    2    ENG
+chamomile
+-1   3    4    PY
+chan
+1   0    0    ENG
+chance
+2   3    1    ENG
+chanda
+2   3    1    ENG
+chandelier
+2   5    3    ENG
+chane
+-1   1    2    PY
+chang
+1   2    1    ENG
+changchun
+-3   2    5    PY
+change
+2   3    1    ENG
+changeling
+4   6    2    ENG
+changer
+3   4    1    ENG
+changsha
+-2   2    4    PY
+channa
+2   3    1    ENG
+channeling
+4   6    2    ENG
+channelize
+2   5    3    ENG
+channing
+4   5    1    ENG
+chao
+-1   0    0    PY
+charin
+2   3    1    ENG
+chase
+1   2    1    ENG
+che
+-1   0    0    PY
+chechen
+-1   2    3    PY
+cheer
+1   2    1    ENG
+cheerer
+1   3    2    ENG
+chelate
+1   3    2    ENG
+chemise
+3   4    1    ENG
+chen
+-1   0    0    PY
+cheng
+-3   0    3    PY
+chengdu
+-5   0    5    PY
+cheque
+-2   1    3    PY
+chere
+1   2    1    ENG
+cherianne
+3   5    2    ENG
+cherie
+2   3    1    ENG
+cherin
+2   3    1    ENG
+cheshire
+0   3    3    PY
+cheyenne
+-4   1    5    PY
+chi
+-1   0    0    PY
+chiang
+-2   1    3    PY
+chianti
+1   3    2    ENG
+chiba
+-3   0    3    PY
+chicana
+3   4    1    ENG
+chicane
+3   4    1    ENG
+chichi
+0   2    2    PY
+chide
+-1   1    2    PY
+chiding
+1   3    2    ENG
+chihuahua
+-7   0    7    PY
+chile
+-1   1    2    PY
+chilean
+-1   2    3    PY
+chili
+1   2    1    ENG
+chime
+-1   1    2    PY
+chimu
+-1   1    2    PY
+chin
+1   0    0    ENG
+china
+-1   1    2    PY
+chinaman
+-4   1    5    PY
+chinamen
+0   3    3    PY
+chine
+1   2    1    ENG
+chinese
+3   4    1    ENG
+chinning
+4   5    1    ENG
+chiquita
+0   3    3    PY
+chitin
+0   2    2    PY
+chongqing
+-5   1    6    PY
+chou
+-1   0    0    PY
+chute
+-3   0    3    PY
+ci
+-1   0    0    PY
+ciao
+-1   0    0    PY
+cicada
+-2   1    3    PY
+cincinnati
+0   4    4    PY
+cinda
+-3   0    3    PY
+cindi
+-1   1    2    PY
+cindie
+0   2    2    PY
+cine
+1   0    0    ENG
+cinema
+0   2    2    PY
+cite
+1   0    0    ENG
+citizen
+3   4    1    ENG
+cong
+1   0    0    ENG
+conger
+2   3    1    ENG
+congregate
+6   7    1    ENG
+congruence
+0   4    4    PY
+cousin
+2   3    1    ENG
+couture
+1   3    2    ENG
+cu
+-1   0    0    PY
+cuba
+1   0    0    ENG
+cuban
+-1   1    2    PY
+cubing
+-4   0    4    PY
+cue
+-1   0    0    PY
+cuisine
+1   3    2    ENG
+culver
+-4   0    4    PY
+cumin
+-1   1    2    PY
+cumulate
+4   5    1    ENG
+cumuli
+0   2    2    PY
+cunning
+3   4    1    ENG
+cupola
+-2   1    3    PY
+cure
+1   0    0    ENG
+curie
+1   2    1    ENG
+cute
+1   0    0    ENG
+cv
+-1   0    0    PY
+da
+-1   0    0    PY
+dace
+-1   0    0    PY
+dacha
+1   2    1    ENG
+dacie
+-3   0    3    PY
+dada
+-1   0    0    PY
+dade
+-1   0    0    PY
+daguerre
+2   4    2    ENG
+daile
+1   2    1    ENG
+daisi
+-1   1    2    PY
+daisie
+-2   1    3    PY
+dale
+-1   0    0    PY
+dalenna
+-3   1    4    PY
+dali
+-1   0    0    PY
+dalian
+0   2    2    PY
+dalila
+-4   0    4    PY
+damage
+2   3    1    ENG
+dame
+1   0    0    ENG
+damian
+-2   1    3    PY
+damien
+-4   0    4    PY
+damita
+0   2    2    PY
+dan
+-1   0    0    PY
+dana
+-1   0    0    PY
+dance
+1   2    1    ENG
+dancelike
+1   4    3    ENG
+dane
+-1   0    0    PY
+dang
+1   0    0    ENG
+danger
+2   3    1    ENG
+dangle
+2   3    1    ENG
+dangling
+4   5    1    ENG
+dani
+1   0    0    ENG
+danica
+2   3    1    ENG
+danice
+2   3    1    ENG
+danie
+1   2    1    ENG
+daniela
+-1   2    3    PY
+daniele
+-1   2    3    PY
+danika
+-2   1    3    PY
+danila
+0   2    2    PY
+danita
+2   3    1    ENG
+danna
+-1   1    2    PY
+danni
+-1   1    2    PY
+dannie
+-2   1    3    PY
+dante
+1   2    1    ENG
+danubian
+-2   2    4    PY
+danya
+-3   0    3    PY
+dare
+1   0    0    ENG
+dareen
+2   3    1    ENG
+daren
+1   2    1    ENG
+darin
+1   2    1    ENG
+dasha
+1   2    1    ENG
+dasi
+-1   0    0    PY
+dasie
+-1   1    2    PY
+data
+1   0    0    ENG
+database
+0   3    3    PY
+date
+1   0    0    ENG
+dateline
+2   4    2    ENG
+dating
+2   3    1    ENG
+daze
+-1   0    0    PY
+de
+1   0    0    ENG
+dean
+-1   0    0    PY
+deanna
+-2   1    3    PY
+deanne
+-2   1    3    PY
+debate
+2   3    1    ENG
+debating
+4   5    1    ENG
+debenture
+1   4    3    ENG
+debi
+1   0    0    ENG
+debilitate
+4   6    2    ENG
+decade
+2   3    1    ENG
+decanting
+3   5    2    ENG
+decapitate
+4   6    2    ENG
+decide
+2   3    1    ENG
+decile
+-2   1    3    PY
+decimate
+2   4    2    ENG
+decoupage
+1   4    3    ENG
+dede
+-1   0    0    PY
+dedicate
+4   5    1    ENG
+dedie
+1   2    1    ENG
+deduce
+2   3    1    ENG
+deer
+-1   0    0    PY
+deface
+0   2    2    PY
+defame
+-2   1    3    PY
+defaming
+0   3    3    PY
+defence
+3   4    1    ENG
+defending
+5   6    1    ENG
+defense
+3   4    1    ENG
+defiance
+2   4    2    ENG
+definer
+3   4    1    ENG
+dehumanize
+2   5    3    ENG
+deice
+-3   0    3    PY
+deina
+-3   0    3    PY
+dela
+1   0    0    ENG
+delaware
+4   5    1    ENG
+delawarean
+4   6    2    ENG
+delaying
+2   4    2    ENG
+delegate
+4   5    1    ENG
+delegating
+6   7    1    ENG
+delete
+2   3    1    ENG
+deli
+1   0    0    ENG
+delicate
+4   5    1    ENG
+delila
+-2   1    3    PY
+delimiting
+6   7    1    ENG
+delinda
+1   3    2    ENG
+delude
+-2   1    3    PY
+deluding
+0   3    3    PY
+deluge
+-4   0    4    PY
+delver
+-2   1    3    PY
+demanding
+5   6    1    ENG
+demean
+-2   1    3    PY
+deming
+0   2    2    PY
+demise
+0   2    2    PY
+demo
+1   0    0    ENG
+demodulating
+4   7    3    ENG
+demote
+2   3    1    ENG
+demure
+-2   1    3    PY
+den
+1   0    0    ENG
+dena
+-1   0    0    PY
+dene
+1   0    0    ENG
+denebola
+-4   1    5    PY
+deneen
+-2   1    3    PY
+deng
+-1   0    0    PY
+dengue
+-4   0    4    PY
+deni
+1   0    0    ENG
+denice
+0   2    2    PY
+denier
+0   2    2    PY
+denise
+2   3    1    ENG
+denizen
+1   3    2    ENG
+denna
+-3   0    3    PY
+denni
+-1   1    2    PY
+dennie
+-2   1    3    PY
+denning
+1   3    2    ENG
+dense
+1   2    1    ENG
+dentin
+2   3    1    ENG
+dentine
+3   4    1    ENG
+denture
+3   4    1    ENG
+denude
+-4   0    4    PY
+denver
+0   2    2    PY
+denying
+-1   2    3    PY
+dependence
+6   7    1    ENG
+depending
+5   6    1    ENG
+depopulating
+6   8    2    ENG
+depose
+2   3    1    ENG
+depute
+2   3    1    ENG
+deputize
+2   4    2    ENG
+derailing
+3   5    2    ENG
+derange
+3   4    1    ENG
+deregulating
+6   8    2    ENG
+desalinate
+2   5    3    ENG
+desalinize
+0   4    4    PY
+desi
+1   0    0    ENG
+desire
+2   3    1    ENG
+desuetude
+-5   1    6    PY
+detailing
+5   6    1    ENG
+detuning
+0   3    3    PY
+dewie
+-3   0    3    PY
+di
+-1   0    0    PY
+dian
+1   0    0    ENG
+dianhua
+-3   1    4    PY
+dianhuabao
+-6   1    7    PY
+dianhuaben
+-6   1    7    PY
+dianhuabianshengqi
+-10   3    13    PY
+dianhuabohaoqi
+-10   1    11    PY
+dianhuabu
+-5   1    6    PY
+dianhuadingweixunrenxitong
+-12   6    18    PY
+dianhuaduanxincunchu
+-8   5    13    PY
+dianhuafuwu
+-7   1    8    PY
+dianhuagaoshou
+-8   2    10    PY
+dianhuajietongzhendong
+-6   7    13    PY
+dianhualanjieqi
+-9   2    11    PY
+dianhualuyin
+-6   2    8    PY
+dianhualuyinji
+-8   2    10    PY
+dianhuashezhi
+-7   2    9    PY
+dianhuaweitong
+-6   3    9    PY
+dianhuaxinxicunchu
+-12   2    14    PY
+dianhuazhongboqi
+-12   1    13    PY
+dianhuazhushou
+-6   3    9    PY
+dianna
+0   2    2    PY
+dianne
+0   2    2    PY
+dice
+-1   0    0    PY
+dicier
+0   2    2    PY
+didi
+-1   0    0    PY
+die
+1   0    0    ENG
+diena
+-1   1    2    PY
+dietitian
+3   5    2    ENG
+dike
+-1   0    0    PY
+dilan
+1   2    1    ENG
+dilapidate
+0   4    4    PY
+dilate
+2   3    1    ENG
+diligence
+3   5    2    ENG
+dilute
+-2   1    3    PY
+dime
+1   0    0    ENG
+din
+-1   0    0    PY
+dina
+1   0    0    ENG
+dine
+1   0    0    ENG
+diner
+1   2    1    ENG
+ding
+1   0    0    ENG
+dingle
+2   3    1    ENG
+dining
+2   3    1    ENG
+dinnie
+0   2    2    PY
+dinning
+3   4    1    ENG
+dipole
+-2   1    3    PY
+dire
+1   0    0    ENG
+disabuse
+2   4    2    ENG
+disadvantage
+8   9    1    ENG
+disenchanting
+7   9    2    ENG
+disengage
+3   5    2    ENG
+disentangling
+7   9    2    ENG
+disuniting
+2   5    3    ENG
+disuse
+-4   0    4    PY
+dita
+1   0    0    ENG
+dixie
+-3   0    3    PY
+dong
+-1   0    0    PY
+dongle
+0   2    2    PY
+douche
+0   2    2    PY
+dougie
+-2   1    3    PY
+douse
+-1   1    2    PY
+du
+-1   0    0    PY
+duane
+-3   0    3    PY
+dubai
+-3   0    3    PY
+dubuque
+-5   0    5    PY
+duce
+1   0    0    ENG
+dude
+-1   0    0    PY
+due
+1   0    0    ENG
+duenna
+-4   0    4    PY
+dui
+-1   0    0    PY
+duke
+1   0    0    ENG
+dukie
+-3   0    3    PY
+dun
+-1   0    0    PY
+duncan
+0   2    2    PY
+dunce
+1   2    1    ENG
+dune
+-1   0    0    PY
+dunedin
+-3   1    4    PY
+dunne
+-1   1    2    PY
+dunning
+1   3    2    ENG
+duo
+-1   0    0    PY
+duodena
+-3   1    4    PY
+duran
+1   2    1    ENG
+durance
+3   4    1    ENG
+durante
+3   4    1    ENG
+duse
+-1   0    0    PY
+eileen
+-4   0    4    PY
+eimile
+0   2    2    PY
+eire
+1   0    0    ENG
+eirena
+2   3    1    ENG
+en
+1   0    0    ENG
+encase
+2   3    1    ENG
+enchanting
+6   7    1    ENG
+enchilada
+3   5    2    ENG
+endanger
+4   5    1    ENG
+ending
+2   3    1    ENG
+endue
+-1   1    2    PY
+endurance
+5   6    1    ENG
+endure
+2   3    1    ENG
+engage
+2   3    1    ENG
+enhance
+1   3    2    ENG
+ennui
+-3   0    3    PY
+enquire
+1   3    2    ENG
+enroute
+1   3    2    ENG
+ensilage
+2   4    2    ENG
+ensue
+1   2    1    ENG
+ensure
+2   3    1    ENG
+entangle
+4   5    1    ENG
+entente
+3   4    1    ENG
+entice
+2   3    1    ENG
+entire
+2   3    1    ENG
+er
+-1   0    0    PY
+eran
+1   0    0    ENG
+erda
+1   0    0    ENG
+erlang
+2   3    1    ENG
+erma
+1   0    0    ENG
+ermin
+1   2    1    ENG
+ermina
+2   3    1    ENG
+ermine
+2   3    1    ENG
+erminie
+1   3    2    ENG
+erna
+1   0    0    ENG
+ernaline
+4   5    1    ENG
+ernie
+-1   1    2    PY
+erse
+1   0    0    ENG
+erwin
+-1   1    2    PY
+fa
+-1   0    0    PY
+fabian
+-4   0    4    PY
+fabien
+-4   0    4    PY
+facade
+-2   1    3    PY
+face
+1   0    0    ENG
+facile
+0   2    2    PY
+facilitate
+6   7    1    ENG
+fade
+1   0    0    ENG
+fading
+0   2    2    PY
+fagin
+-1   1    2    PY
+failing
+3   4    1    ENG
+failure
+3   4    1    ENG
+faina
+1   2    1    ENG
+fake
+-1   0    0    PY
+fame
+1   0    0    ENG
+famine
+2   3    1    ENG
+faming
+2   3    1    ENG
+fan
+-1   0    0    PY
+fancie
+2   3    1    ENG
+fancier
+1   3    2    ENG
+fanfare
+-3   1    4    PY
+fang
+-1   0    0    PY
+fanni
+-1   1    2    PY
+fannie
+-2   1    3    PY
+fanning
+1   3    2    ENG
+fantasize
+3   5    2    ENG
+fanya
+-3   0    3    PY
+fanzine
+-5   0    5    PY
+fare
+1   0    0    ENG
+fate
+1   0    0    ENG
+fatigue
+3   4    1    ENG
+fatima
+0   2    2    PY
+faye
+-1   0    0    PY
+fayina
+-2   1    3    PY
+faze
+-1   0    0    PY
+feijimoshi
+-8   0    8    PY
+feijipaodaodajian
+-15   0    15    PY
+feijipengzhuang
+-13   0    13    PY
+feijipintu
+-6   1    7    PY
+feijiquna
+-7   0    7    PY
+feijishandianzhanji
+-7   5    12    PY
+feijishejidazhan
+-12   1    13    PY
+feijishejiyouxi
+-11   1    12    PY
+feijisheshou
+-4   3    7    PY
+feijitianse
+-7   1    8    PY
+feijixiaofangyuan
+-15   0    15    PY
+feijixiaoxiaohuabizhizhutizhuomianmeihua
+-38   0    38    PY
+feijixingjidazhan
+-13   1    14    PY
+feijiyoujizhan
+-12   0    12    PY
+feijiyunhang
+-6   2    8    PY
+feijiyunshu
+-7   1    8    PY
+feijizhanshiyouxi
+-13   1    14    PY
+feijizongdongyuan
+-11   2    13    PY
+feijizuozhan
+-8   1    9    PY
+feikefanliwang
+-10   1    11    PY
+fen
+-1   0    0    PY
+fence
+1   2    1    ENG
+fianna
+0   2    2    PY
+fie
+-1   0    0    PY
+fin
+-1   0    0    PY
+finance
+3   4    1    ENG
+financier
+3   5    2    ENG
+finding
+3   4    1    ENG
+finnegan
+0   3    3    PY
+finning
+1   3    2    ENG
+foci
+1   0    0    ENG
+fore
+1   0    0    ENG
+forebode
+-2   2    4    PY
+foreboding
+2   5    3    ENG
+foreman
+3   4    1    ENG
+foremen
+3   4    1    ENG
+forename
+0   3    3    PY
+foreseen
+4   5    1    ENG
+foreseer
+2   4    2    ENG
+forewoman
+-1   3    4    PY
+forewomen
+-1   3    4    PY
+foxing
+-2   1    3    PY
+fugue
+-3   0    3    PY
+fuji
+-1   0    0    PY
+fujiyama
+-6   0    6    PY
+fukuoka
+-5   0    5    PY
+fulani
+-2   1    3    PY
+fume
+-1   0    0    PY
+fumigate
+-2   2    4    PY
+fuming
+0   2    2    PY
+fun
+1   0    0    ENG
+funafuti
+-4   1    5    PY
+funding
+3   4    1    ENG
+funning
+3   4    1    ENG
+fuse
+1   0    0    ENG
+fuselage
+2   4    2    ENG
+fushun
+-4   0    4    PY
+fusilier
+0   3    3    PY
+futile
+2   3    1    ENG
+future
+2   3    1    ENG
+fuze
+-1   0    0    PY
+fuzhou
+-4   0    4    PY
+ga
+-1   0    0    PY
+gabi
+-1   0    0    PY
+gabie
+-3   0    3    PY
+gabonese
+0   3    3    PY
+gaga
+-1   0    0    PY
+gagarin
+-3   1    4    PY
+gage
+1   0    0    ENG
+gaile
+1   2    1    ENG
+gaining
+3   4    1    ENG
+gala
+-1   0    0    PY
+gale
+-1   0    0    PY
+galen
+-1   1    2    PY
+galena
+-2   1    3    PY
+galenite
+0   3    3    PY
+galibi
+-2   1    3    PY
+galilean
+-4   1    5    PY
+galina
+0   2    2    PY
+galvan
+0   2    2    PY
+galven
+-2   1    3    PY
+gama
+-1   0    0    PY
+game
+1   0    0    ENG
+gamete
+0   2    2    PY
+gamin
+-1   1    2    PY
+gamine
+0   2    2    PY
+gaming
+0   2    2    PY
+gan
+-1   0    0    PY
+gang
+1   0    0    ENG
+ganger
+2   3    1    ENG
+gangling
+4   5    1    ENG
+gangrene
+4   5    1    ENG
+gannie
+-2   1    3    PY
+gao
+-1   0    0    PY
+gaozhishangtongdaolianjie
+-13   5    18    PY
+gaozhishangyouxi
+-10   2    12    PY
+gaozhishangyouxieryuanmiti
+-18   3    21    PY
+gaozhongdaxuexiaohuaji
+-20   0    20    PY
+gaozhongshuxue
+-10   1    11    PY
+gaozhongshuxuepingmianxiangliangzhishidian
+-22   9    31    PY
+gaozhongshuxuetifenbibei
+-20   1    21    PY
+gaozhongshuxuezhishidianzhijihe
+-21   4    25    PY
+gaozhongwenyanwenbibeipianmu
+-26   0    26    PY
+gaozhongwuli
+-10   0    10    PY
+gaozhongyingyu
+-12   0    12    PY
+gaozhongyingyuxuexibaike
+-22   0    22    PY
+gaping
+-2   1    3    PY
+gare
+-1   0    0    PY
+garv
+-1   0    0    PY
+gate
+1   0    0    ENG
+gatehouse
+-1   3    4    PY
+gatun
+-1   1    2    PY
+gawen
+-3   0    3    PY
+gaye
+-1   0    0    PY
+gaza
+-1   0    0    PY
+gaze
+1   0    0    ENG
+gazebo
+-2   1    3    PY
+ge
+-1   0    0    PY
+gehenna
+-3   1    4    PY
+geisha
+-4   0    4    PY
+gelatin
+1   3    2    ENG
+gemini
+0   2    2    PY
+gen
+-1   0    0    PY
+gena
+-1   0    0    PY
+gene
+1   0    0    ENG
+genie
+1   2    1    ENG
+genna
+-3   0    3    PY
+genni
+-1   1    2    PY
+gennie
+-2   1    3    PY
+genre
+-3   0    3    PY
+gentian
+1   3    2    ENG
+gentile
+3   4    1    ENG
+genuine
+3   4    1    ENG
+gerianna
+2   4    2    ENG
+gerianne
+2   4    2    ENG
+gian
+1   0    0    ENG
+gianna
+0   2    2    PY
+gianni
+0   2    2    PY
+giannini
+0   3    3    PY
+gin
+-1   0    0    PY
+ginni
+1   2    1    ENG
+ginnie
+0   2    2    PY
+ginning
+3   4    1    ENG
+ginseng
+1   3    2    ENG
+gong
+-1   0    0    PY
+gouda
+-3   0    3    PY
+gouge
+-3   0    3    PY
+gu
+-1   0    0    PY
+guacamole
+-5   1    6    PY
+guamanian
+-3   2    5    PY
+guangzhou
+-7   0    7    PY
+guanine
+-1   2    3    PY
+guantanamo
+0   4    4    PY
+guatemala
+3   5    2    ENG
+guatemalan
+4   6    2    ENG
+guenna
+-4   0    4    PY
+gui
+-1   0    0    PY
+guidance
+2   4    2    ENG
+guide
+1   2    1    ENG
+guideline
+5   6    1    ENG
+guile
+-1   1    2    PY
+guinean
+-1   2    3    PY
+guise
+1   2    1    ENG
+guiyang
+-5   0    5    PY
+gun
+1   0    0    ENG
+gunman
+-4   0    4    PY
+gunmen
+-2   1    3    PY
+gunning
+1   3    2    ENG
+gunrunning
+0   4    4    PY
+gunwale
+-5   0    5    PY
+guofeng
+-5   0    5    PY
+guru
+-1   0    0    PY
+guyana
+-4   0    4    PY
+guyanese
+-2   2    4    PY
+ha
+1   0    0    ENG
+habituate
+5   6    1    ENG
+hacienda
+0   3    3    PY
+hagan
+-3   0    3    PY
+hagen
+1   2    1    ENG
+hague
+-1   1    2    PY
+haifa
+-3   0    3    PY
+haiku
+-3   0    3    PY
+haiti
+-1   1    2    PY
+haitian
+-1   2    3    PY
+hake
+1   0    0    ENG
+hale
+-1   0    0    PY
+hali
+-1   0    0    PY
+halide
+-4   0    4    PY
+halie
+-1   1    2    PY
+halimeda
+-4   1    5    PY
+halite
+0   2    2    PY
+haman
+-3   0    3    PY
+han
+-1   0    0    PY
+hana
+-1   0    0    PY
+hanan
+-3   0    3    PY
+hang
+1   0    0    ENG
+hanger
+2   3    1    ENG
+hangman
+-3   1    4    PY
+hangmen
+-1   2    3    PY
+hangzhou
+-4   1    5    PY
+hankie
+0   2    2    PY
+hanna
+1   2    1    ENG
+hanni
+1   2    1    ENG
+hannie
+0   2    2    PY
+hansen
+-2   1    3    PY
+hanuka
+-4   0    4    PY
+harangue
+2   4    2    ENG
+haranguer
+3   5    2    ENG
+hare
+1   0    0    ENG
+harv
+1   0    0    ENG
+hate
+1   0    0    ENG
+hating
+2   3    1    ENG
+haze
+-1   0    0    PY
+he
+1   0    0    ENG
+hecate
+-2   1    3    PY
+hecuba
+-2   1    3    PY
+heda
+-1   0    0    PY
+hedi
+-1   0    0    PY
+hegelian
+-2   2    4    PY
+heibaiaifeier
+-11   0    11    PY
+heibaibaguazhen
+-11   1    12    PY
+heibaibufen
+-9   0    9    PY
+heibaichangjinglu
+-7   4    11    PY
+heibaicuola
+-9   0    9    PY
+heibaidingdangmaobizhizhutizhuomianmeihua
+-29   5    34    PY
+heibaifangkuai
+-12   0    12    PY
+heibaifangkuaipaoku
+-17   0    17    PY
+heibaifanzhuanqi
+-14   0    14    PY
+heibaifeiji
+-9   0    9    PY
+heibaigangqinjianer
+-13   2    15    PY
+heibaigetiaodianxinzhutibizhimeihua
+-25   4    29    PY
+heibaigetiaozhuomianzhutibizhimeihua
+-30   2    32    PY
+heibaigexingtuwenbizhizhutizhuomianmeihua
+-35   2    37    PY
+heibaigezi
+-8   0    8    PY
+heibaigezidaren
+-9   2    11    PY
+heida
+-3   0    3    PY
+heidi
+-3   0    3    PY
+heidie
+-4   0    4    PY
+heine
+-3   0    3    PY
+heineken
+-6   0    6    PY
+helaina
+-1   2    3    PY
+helaine
+-1   2    3    PY
+helen
+1   2    1    ENG
+helena
+0   2    2    PY
+helene
+2   3    1    ENG
+helenka
+-1   2    3    PY
+hematite
+2   4    2    ENG
+heme
+1   0    0    ENG
+hen
+-1   0    0    PY
+hence
+1   2    1    ENG
+henge
+-1   1    2    PY
+henka
+-3   0    3    PY
+henna
+-3   0    3    PY
+henning
+1   3    2    ENG
+henrie
+-2   1    3    PY
+henrieta
+0   3    3    PY
+heparin
+1   3    2    ENG
+here
+1   0    0    ENG
+hesitance
+5   6    1    ENG
+hesitate
+4   5    1    ENG
+hesitating
+6   7    1    ENG
+hewie
+-3   0    3    PY
+hie
+-1   0    0    PY
+hinda
+-1   1    2    PY
+hindi
+1   2    1    ENG
+hindu
+1   2    1    ENG
+hinge
+1   2    1    ENG
+hinze
+-3   0    3    PY
+hong
+-1   0    0    PY
+houdini
+-1   2    3    PY
+house
+1   2    1    ENG
+houseman
+4   5    1    ENG
+housemen
+4   5    1    ENG
+huang
+-3   0    3    PY
+hubie
+-3   0    3    PY
+hue
+-1   0    0    PY
+huerta
+-2   1    3    PY
+huge
+1   0    0    ENG
+hui
+-1   0    0    PY
+hula
+-1   0    0    PY
+human
+1   2    1    ENG
+humane
+2   3    1    ENG
+humaner
+1   3    2    ENG
+humanitarian
+8   9    1    ENG
+humanize
+4   5    1    ENG
+hume
+1   0    0    ENG
+hun
+-1   0    0    PY
+hungarian
+3   5    2    ENG
+hunting
+3   4    1    ENG
+hutu
+-1   0    0    PY
+jaime
+-1   1    2    PY
+jaimie
+-2   1    3    PY
+jaine
+-1   1    2    PY
+jan
+-1   0    0    PY
+janenna
+-3   1    4    PY
+jangle
+0   2    2    PY
+janka
+-3   0    3    PY
+janna
+-1   1    2    PY
+jannie
+-2   1    3    PY
+jansen
+-2   1    3    PY
+jen
+-1   0    0    PY
+jenda
+-1   1    2    PY
+jenna
+-3   0    3    PY
+jenni
+-1   1    2    PY
+jennica
+-1   2    3    PY
+jennie
+-2   1    3    PY
+jennine
+1   3    2    ENG
+jensen
+0   2    2    PY
+jianfeibang
+-7   1    8    PY
+jianfeiburongyibizhizhutizhuomianmeihua
+-35   1    36    PY
+jianfeicaidan
+-9   1    10    PY
+jianfeicaoshipin
+-10   2    12    PY
+jianfeichenggong
+-12   1    13    PY
+jianfeichuanbijini
+-16   0    16    PY
+jianfeidajihua
+-12   0    12    PY
+jianfeidaren
+-6   2    8    PY
+jianfeidishipu
+-6   3    9    PY
+jianfeifuwupingtai
+-12   2    14    PY
+jianfeijianfeichanpin
+-15   2    17    PY
+jianfeijianshencaozhengduoyanmimijiaocheng
+-28   6    34    PY
+jianfeijianshenwang
+-13   2    15    PY
+jianfeijiaolian
+-11   1    12    PY
+jianfeijibuqi
+-11   0    11    PY
+jianfeijin
+-8   0    8    PY
+jianfeijinhangqu
+-10   2    12    PY
+jianfeilizhibizhizhutizhuomianmeihua
+-28   3    31    PY
+jianfeilizhishiwangdaozhuomianzhutibizhimeihua
+-36   4    40    PY
+jibing
+-2   1    3    PY
+jilin
+-1   1    2    PY
+jinan
+-1   1    2    PY
+jingle
+0   2    2    PY
+jinni
+-1   1    2    PY
+joule
+-3   0    3    PY
+juan
+-1   0    0    PY
+juana
+-3   0    3    PY
+juanita
+-1   2    3    PY
+jubilate
+-2   2    4    PY
+jude
+-1   0    0    PY
+judi
+1   0    0    ENG
+judicature
+4   6    2    ENG
+judie
+1   2    1    ENG
+jugate
+-2   1    3    PY
+juice
+-3   0    3    PY
+juju
+-1   0    0    PY
+juke
+-1   0    0    PY
+jule
+-1   0    0    PY
+juli
+1   0    0    ENG
+julian
+2   3    1    ENG
+julianna
+2   4    2    ENG
+julianne
+2   4    2    ENG
+julie
+-1   1    2    PY
+julienne
+2   4    2    ENG
+julieta
+-1   2    3    PY
+julina
+2   3    1    ENG
+juline
+2   3    1    ENG
+julita
+2   3    1    ENG
+jun
+-1   0    0    PY
+june
+1   0    0    ENG
+jungian
+-3   1    4    PY
+junie
+-3   0    3    PY
+junina
+-2   1    3    PY
+junketeer
+-1   3    4    PY
+junkie
+-4   0    4    PY
+junta
+-1   1    2    PY
+jurua
+-3   0    3    PY
+jute
+-1   0    0    PY
+jv
+-1   0    0    PY
+kacie
+-3   0    3    PY
+kai
+-1   0    0    PY
+kaifeng
+-5   0    5    PY
+kaila
+-1   1    2    PY
+kaile
+-1   1    2    PY
+kaine
+-1   1    2    PY
+kakalina
+-2   2    4    PY
+kala
+-1   0    0    PY
+kale
+-1   0    0    PY
+kali
+-1   0    0    PY
+kalie
+-1   1    2    PY
+kalila
+-4   0    4    PY
+kalina
+0   2    2    PY
+kalinda
+-1   2    3    PY
+kalindi
+1   3    2    ENG
+kama
+-1   0    0    PY
+kamehameha
+-6   1    7    PY
+kamikaze
+-6   0    6    PY
+kamila
+0   2    2    PY
+kan
+-1   0    0    PY
+kanchenjunga
+-2   4    6    PY
+kandace
+-3   1    4    PY
+kane
+-1   0    0    PY
+kannada
+-3   1    4    PY
+kansan
+2   3    1    ENG
+kantian
+-1   2    3    PY
+kanya
+-3   0    3    PY
+kaolin
+-2   1    3    PY
+kaolinite
+1   4    3    ENG
+kaposi
+-2   1    3    PY
+karaoke
+-3   1    4    PY
+kare
+-1   0    0    PY
+karen
+-1   1    2    PY
+karena
+0   2    2    PY
+karenina
+-2   2    4    PY
+karie
+-1   1    2    PY
+karin
+-1   1    2    PY
+kasai
+-3   0    3    PY
+kata
+-1   0    0    PY
+katakana
+-6   0    6    PY
+katalin
+1   3    2    ENG
+kate
+-1   0    0    PY
+kati
+-1   0    0    PY
+katie
+-1   1    2    PY
+katina
+0   2    2    PY
+katine
+0   2    2    PY
+katinka
+-3   1    4    PY
+katusha
+-3   1    4    PY
+kawabata
+-6   0    6    PY
+kaye
+-1   0    0    PY
+kazan
+-3   0    3    PY
+keailanjinglingzhuomianzhutibizhimeihua
+-23   7    30    PY
+keailanpangzibizhizhutizhuomianmeihua
+-31   2    33    PY
+keailaoshusaipao
+-12   1    13    PY
+keailianliankan
+-3   5    8    PY
+keailiumengtushoujidongtaibizhi
+-19   5    24    PY
+keailizhien
+-5   2    7    PY
+keailongmao
+-5   2    7    PY
+keailongmaomianfeizhuomianzhuti
+-25   2    27    PY
+keailongmaoxilieerdongtaibizhi
+-22   3    25    PY
+keailongmaozhuomianzhutibizhimeihua
+-27   3    30    PY
+keailongmaozhutidongtaibizhi
+-22   2    24    PY
+keailuanpin
+-7   1    8    PY
+keailuoli
+-5   1    6    PY
+keailuolibizhizhutizhuomianmeihua
+-27   2    29    PY
+keailuolidongtaibizhi
+-15   2    17    PY
+keailvtiaoyue
+-11   0    11    PY
+keailvyi
+-6   0    6    PY
+keaimabaibaihe
+-12   0    12    PY
+keaimaidou
+-6   1    7    PY
+keaimailafeng
+-5   3    8    PY
+keaimangguozi
+-11   0    11    PY
+keaimao
+-5   0    5    PY
+kean
+-1   0    0    PY
+keen
+1   0    0    ENG
+keenan
+0   2    2    PY
+keener
+0   2    2    PY
+keisha
+-4   0    4    PY
+kele
+1   0    0    ENG
+kelila
+-4   0    4    PY
+ken
+-1   0    0    PY
+kenmore
+-3   1    4    PY
+kenna
+-3   0    3    PY
+kennan
+-4   0    4    PY
+kennie
+-2   1    3    PY
+kenning
+1   3    2    ENG
+kenya
+-3   0    3    PY
+kenyan
+-4   0    4    PY
+kepi
+-1   0    0    PY
+kerianne
+0   3    3    PY
+kiele
+-3   0    3    PY
+kienan
+-2   1    3    PY
+kin
+-1   0    0    PY
+kinda
+-1   1    2    PY
+kinna
+-3   0    3    PY
+kinnie
+-2   1    3    PY
+kinshasa
+-2   2    4    PY
+kinshasha
+-1   3    4    PY
+kong
+-1   0    0    PY
+ku
+-1   0    0    PY
+kuchen
+-2   1    3    PY
+kuenning
+0   3    3    PY
+kunming
+-3   1    4    PY
+kuomintang
+0   4    4    PY
+kuwaiti
+-1   2    3    PY
+la
+1   0    0    ENG
+laban
+1   2    1    ENG
+labile
+-2   1    3    PY
+lace
+1   0    0    ENG
+lacie
+-1   1    2    PY
+lacuna
+-4   0    4    PY
+lade
+1   0    0    ENG
+laden
+1   2    1    ENG
+ladening
+4   5    1    ENG
+lading
+2   3    1    ENG
+laguerre
+2   4    2    ENG
+laguna
+-4   0    4    PY
+laina
+1   2    1    ENG
+lake
+1   0    0    ENG
+lakeisha
+-4   1    5    PY
+lakeside
+0   3    3    PY
+lama
+1   0    0    ENG
+lamaze
+2   3    1    ENG
+lame
+1   0    0    ENG
+lamina
+2   3    1    ENG
+laminate
+4   5    1    ENG
+laming
+2   3    1    ENG
+lan
+-1   0    0    PY
+lana
+1   0    0    ENG
+lanai
+-1   1    2    PY
+lancashire
+2   5    3    ENG
+lance
+1   2    1    ENG
+landing
+3   4    1    ENG
+lane
+1   0    0    ENG
+lang
+1   0    0    ENG
+lange
+1   2    1    ENG
+langmanzhikelalianrenzhuomianzhutibizhimeihua
+-33   5    38    PY
+langmanzhilian
+-4   4    8    PY
+langmanzhiwen
+-9   1    10    PY
+langmanzhiyue
+-9   1    10    PY
+langmanzhizihuadianxinzhutibizhimeihua
+-26   5    31    PY
+langmanzhuomianzhutibizhimeihua
+-25   2    27    PY
+langmanzi
+-5   1    6    PY
+langmanzise
+-7   1    8    PY
+langmanzisezhuomianzhuti
+-20   1    21    PY
+langmanzitiku
+-9   1    10    PY
+langmanzizhuomianzhutimeihua
+-22   2    24    PY
+langnvsanguoxiangqiwushuang
+-19   3    22    PY
+langpintu
+-5   1    6    PY
+langqun
+-3   1    4    PY
+langren
+3   4    1    ENG
+langrenbaike
+0   5    5    PY
+langrennvhaizhongwenban
+-11   5    16    PY
+langrensha
+4   6    2    ENG
+langshanlvyou
+-7   2    9    PY
+langtuteng
+-2   3    5    PY
+langtutengbizhizhutizhuomianmeihua
+-26   3    29    PY
+language
+2   4    2    ENG
+languang
+0   3    3    PY
+lani
+-1   0    0    PY
+lanie
+-1   1    2    PY
+lanita
+0   2    2    PY
+lanna
+1   2    1    ENG
+lanni
+1   2    1    ENG
+lannie
+0   2    2    PY
+lanzhou
+-5   0    5    PY
+lao
+-1   0    0    PY
+laotian
+-3   1    4    PY
+lapin
+-1   1    2    PY
+laraine
+1   3    2    ENG
+lase
+-1   0    0    PY
+latasha
+3   4    1    ENG
+late
+1   0    0    ENG
+lateran
+3   4    1    ENG
+latin
+1   2    1    ENG
+latina
+2   3    1    ENG
+latinate
+4   5    1    ENG
+latisha
+-1   2    3    PY
+latitude
+4   5    1    ENG
+latitudinarian
+10   11    1    ENG
+lawanda
+1   3    2    ENG
+lazare
+-2   1    3    PY
+laze
+1   0    0    ENG
+lazuli
+-4   0    4    PY
+le
+1   0    0    ENG
+lean
+1   0    0    ENG
+leaner
+0   2    2    PY
+leanna
+0   2    2    PY
+leanne
+0   2    2    PY
+lebanese
+-2   2    4    PY
+leda
+-1   0    0    PY
+leer
+-1   0    0    PY
+legalese
+0   3    3    PY
+legalize
+2   4    2    ENG
+legate
+2   3    1    ENG
+legume
+-2   1    3    PY
+lei
+-1   0    0    PY
+leiden
+-2   1    3    PY
+leila
+-3   0    3    PY
+leisha
+-2   1    3    PY
+leisure
+3   4    1    ENG
+lela
+-1   0    0    PY
+lemonade
+0   3    3    PY
+len
+-1   0    0    PY
+lena
+-1   0    0    PY
+lenci
+1   2    1    ENG
+lending
+3   4    1    ENG
+lenience
+2   4    2    ENG
+lenin
+-1   1    2    PY
+lenka
+-3   0    3    PY
+lenna
+-3   0    3    PY
+lennie
+-2   1    3    PY
+lesa
+-1   0    0    PY
+leta
+-1   0    0    PY
+letisha
+-3   1    4    PY
+lewie
+-3   0    3    PY
+lexi
+1   0    0    ENG
+lexie
+-1   1    2    PY
+lexine
+0   2    2    PY
+li
+-1   0    0    PY
+liaise
+-2   1    3    PY
+lian
+1   0    0    ENG
+lianna
+0   2    2    PY
+lianne
+0   2    2    PY
+lice
+1   0    0    ENG
+license
+3   4    1    ENG
+licha
+-1   1    2    PY
+lichen
+-2   1    3    PY
+lida
+1   0    0    ENG
+lie
+1   0    0    ENG
+liege
+-3   0    3    PY
+lien
+1   0    0    ENG
+lier
+-1   0    0    PY
+liesa
+-1   1    2    PY
+lifo
+1   0    0    ENG
+ligate
+2   3    1    ENG
+ligature
+4   5    1    ENG
+like
+1   0    0    ENG
+liken
+-1   1    2    PY
+lila
+-1   0    0    PY
+lilian
+0   2    2    PY
+lima
+1   0    0    ENG
+lime
+1   0    0    ENG
+limiting
+4   5    1    ENG
+limo
+-1   0    0    PY
+limousine
+3   5    2    ENG
+lin
+-1   0    0    PY
+lina
+1   0    0    ENG
+linage
+2   3    1    ENG
+linda
+-1   1    2    PY
+linden
+2   3    1    ENG
+lindi
+1   2    1    ENG
+lindie
+2   3    1    ENG
+line
+1   0    0    ENG
+lineman
+1   3    2    ENG
+linemen
+3   4    1    ENG
+linen
+1   2    1    ENG
+liner
+1   2    1    ENG
+ling
+1   0    0    ENG
+linger
+2   3    1    ENG
+lingerer
+2   4    2    ENG
+lingerie
+4   5    1    ENG
+lingua
+2   3    1    ENG
+linguine
+4   5    1    ENG
+linguini
+2   4    2    ENG
+lining
+2   3    1    ENG
+linkage
+-3   1    4    PY
+linnie
+-2   1    3    PY
+lipase
+-4   0    4    PY
+liquidate
+1   4    3    ENG
+liquidize
+-3   2    5    PY
+lire
+-1   0    0    PY
+lisa
+1   0    0    ENG
+lise
+1   0    0    ENG
+lisha
+-1   1    2    PY
+lishe
+1   2    1    ENG
+lita
+1   0    0    ENG
+lite
+1   0    0    ENG
+litigate
+2   4    2    ENG
+liuka
+-3   0    3    PY
+liza
+1   0    0    ENG
+long
+1   0    0    ENG
+longer
+2   3    1    ENG
+longtime
+-2   2    4    PY
+lou
+-1   0    0    PY
+louden
+2   3    1    ENG
+louse
+1   2    1    ENG
+lu
+-1   0    0    PY
+luanda
+-2   1    3    PY
+luca
+-1   0    0    PY
+luce
+-1   0    0    PY
+luci
+-1   0    0    PY
+lucian
+-2   1    3    PY
+lucie
+-3   0    3    PY
+lucien
+-2   1    3    PY
+lucienne
+0   3    3    PY
+lucila
+-4   0    4    PY
+lucile
+-4   0    4    PY
+lucina
+0   2    2    PY
+lucinda
+-3   1    4    PY
+lucine
+0   2    2    PY
+lucita
+-2   1    3    PY
+lucite
+-2   1    3    PY
+luge
+-1   0    0    PY
+luisa
+-1   1    2    PY
+luise
+1   2    1    ENG
+luke
+-1   0    0    PY
+lula
+1   0    0    ENG
+lulita
+2   3    1    ENG
+lulu
+-1   0    0    PY
+lumen
+1   2    1    ENG
+luminance
+5   6    1    ENG
+luna
+1   0    0    ENG
+lunate
+2   3    1    ENG
+lune
+-1   0    0    PY
+lunge
+1   2    1    ENG
+lupine
+0   2    2    PY
+lure
+1   0    0    ENG
+lusa
+-1   0    0    PY
+lusaka
+-4   0    4    PY
+lute
+1   0    0    ENG
+luting
+2   3    1    ENG
+luxuriance
+4   6    2    ENG
+ma
+1   0    0    ENG
+macadamize
+-6   1    7    PY
+macao
+-3   0    3    PY
+macaque
+-5   0    5    PY
+mace
+1   0    0    ENG
+machete
+-1   2    3    PY
+machinate
+3   5    2    ENG
+machine
+3   4    1    ENG
+machinelike
+3   6    3    ENG
+mada
+1   0    0    ENG
+madalena
+-2   2    4    PY
+madame
+2   3    1    ENG
+made
+1   0    0    ENG
+madelaine
+3   5    2    ENG
+madeleine
+-1   3    4    PY
+madelena
+2   4    2    ENG
+madelene
+4   5    1    ENG
+madelin
+3   4    1    ENG
+madelina
+4   5    1    ENG
+madeline
+4   5    1    ENG
+madurai
+-3   1    4    PY
+magazine
+-2   2    4    PY
+magenta
+3   4    1    ENG
+maguire
+-3   1    4    PY
+mahala
+-2   1    3    PY
+mahayana
+-6   0    6    PY
+mai
+-1   0    0    PY
+maiden
+2   3    1    ENG
+maier
+-3   0    3    PY
+maiga
+-3   0    3    PY
+maiman
+-4   0    4    PY
+maine
+1   2    1    ENG
+maire
+-1   1    2    PY
+maisie
+-2   1    3    PY
+maize
+-3   0    3    PY
+make
+1   0    0    ENG
+mala
+1   0    0    ENG
+malabo
+2   3    1    ENG
+malachi
+3   4    1    ENG
+malachite
+5   6    1    ENG
+malaise
+-1   2    3    PY
+malamute
+-2   2    4    PY
+malanie
+1   3    2    ENG
+malawian
+-4   1    5    PY
+malaya
+-2   1    3    PY
+malayan
+-3   1    4    PY
+male
+1   0    0    ENG
+malena
+0   2    2    PY
+mali
+1   0    0    ENG
+malian
+2   3    1    ENG
+malibu
+-2   1    3    PY
+malice
+2   3    1    ENG
+malina
+2   3    1    ENG
+malinda
+1   3    2    ENG
+malinde
+3   4    1    ENG
+malinger
+4   5    1    ENG
+malingerer
+4   6    2    ENG
+mama
+-1   0    0    PY
+mame
+-1   0    0    PY
+mamie
+-3   0    3    PY
+mamore
+-2   1    3    PY
+man
+1   0    0    ENG
+manage
+2   3    1    ENG
+managua
+-1   2    3    PY
+manama
+0   2    2    PY
+manchu
+0   2    2    PY
+manchurian
+0   4    4    PY
+mancini
+3   4    1    ENG
+mancunian
+-5   1    6    PY
+manda
+1   2    1    ENG
+mandala
+-1   2    3    PY
+mandarin
+4   5    1    ENG
+mandate
+3   4    1    ENG
+mandela
+1   3    2    ENG
+mandi
+1   2    1    ENG
+mandie
+2   3    1    ENG
+mane
+1   0    0    ENG
+manganese
+-3   2    5    PY
+mange
+-1   1    2    PY
+manger
+0   2    2    PY
+mangle
+0   2    2    PY
+mani
+1   0    0    ENG
+manichean
+3   5    2    ENG
+manicure
+0   3    3    PY
+manikin
+-1   2    3    PY
+manila
+0   2    2    PY
+manipulate
+2   5    3    ENG
+manitoulin
+-2   3    5    PY
+manlike
+3   4    1    ENG
+manna
+1   2    1    ENG
+mannie
+0   2    2    PY
+mannikin
+0   3    3    PY
+manning
+3   4    1    ENG
+manse
+-1   1    2    PY
+manta
+1   2    1    ENG
+manuela
+-3   1    4    PY
+manure
+-2   1    3    PY
+manya
+-1   1    2    PY
+mao
+-1   0    0    PY
+maohegou
+-6   0    6    PY
+maohehuobanmenbizhi
+-15   1    16    PY
+maohelaoshu
+-9   0    9    PY
+maohelaoshudamaoxian
+-14   2    16    PY
+maohelaoshudazuozhan
+-14   2    16    PY
+maohelaoshudijiujuanzhier
+-19   2    21    PY
+maohelaoshudijiujuanzhisan
+-20   2    22    PY
+maohelaoshudijiujuanzhiyi
+-21   1    22    PY
+maohelaoshudishijuanzhier
+-15   4    19    PY
+maohelaoshudishijuanzhisan
+-16   4    20    PY
+maohelaoshudishijuanzhiyi
+-17   3    20    PY
+maohelaoshufantu
+-12   1    13    PY
+maohelaoshuhuihuaban
+-16   1    17    PY
+maohelaoshupaoku
+-14   0    14    PY
+maohelaoshutiezhi
+-11   2    13    PY
+maohelaoshuxiupintu
+-15   1    16    PY
+maohelaoshuxuetianse
+-18   0    18    PY
+maohelaoshuzhaozimu
+-17   0    17    PY
+maohepintu
+-6   1    7    PY
+maoheyu
+-5   0    5    PY
+maohuanlediyitian
+-13   1    14    PY
+maohuopoxingzuobizhi
+-16   1    17    PY
+maojiaomoni
+-7   1    8    PY
+maojiaomoniqi
+-9   1    10    PY
+maojiaomoniqishengjiban
+-13   4    17    PY
+maojiaomoniqitebieban
+-17   1    18    PY
+mare
+-1   0    0    PY
+maren
+-1   1    2    PY
+marena
+0   2    2    PY
+marian
+2   3    1    ENG
+marianna
+2   4    2    ENG
+marianne
+2   4    2    ENG
+marie
+1   2    1    ENG
+mariele
+-1   2    3    PY
+marin
+1   2    1    ENG
+mariner
+3   4    1    ENG
+marinna
+-1   2    3    PY
+marv
+-1   0    0    PY
+marven
+0   2    2    PY
+masada
+-4   0    4    PY
+masai
+-3   0    3    PY
+maseru
+-2   1    3    PY
+masha
+1   2    1    ENG
+mata
+-1   0    0    PY
+mate
+1   0    0    ENG
+mating
+2   3    1    ENG
+mature
+2   3    1    ENG
+maxi
+1   0    0    ENG
+maxie
+-1   1    2    PY
+maxima
+2   3    1    ENG
+maximilian
+6   7    1    ENG
+maximilien
+6   7    1    ENG
+maximize
+0   3    3    PY
+maximo
+0   2    2    PY
+maxine
+-2   1    3    PY
+maya
+-1   0    0    PY
+mayan
+-3   0    3    PY
+maye
+-1   0    0    PY
+mazama
+-4   0    4    PY
+mazarin
+-1   2    3    PY
+maze
+1   0    0    ENG
+me
+1   0    0    ENG
+mean
+1   0    0    ENG
+meantime
+4   5    1    ENG
+mechanize
+5   6    1    ENG
+medan
+-3   0    3    PY
+median
+2   3    1    ENG
+medicare
+2   4    2    ENG
+medicate
+4   5    1    ENG
+medici
+2   3    1    ENG
+medicine
+4   5    1    ENG
+medina
+2   3    1    ENG
+meditate
+4   5    1    ENG
+medusa
+-2   1    3    PY
+mega
+-1   0    0    PY
+megan
+-1   1    2    PY
+megen
+-1   1    2    PY
+mei
+-1   0    0    PY
+meier
+-3   0    3    PY
+meiji
+-3   0    3    PY
+mekong
+-4   0    4    PY
+mela
+1   0    0    ENG
+melamie
+-1   2    3    PY
+melamine
+2   4    2    ENG
+melanesian
+2   5    3    ENG
+melange
+3   4    1    ENG
+melanie
+1   3    2    ENG
+melanin
+1   3    2    ENG
+melesa
+-2   1    3    PY
+melina
+0   2    2    PY
+melinda
+-1   2    3    PY
+melinde
+1   3    2    ENG
+melisa
+-2   1    3    PY
+melisande
+1   4    3    ENG
+melisenda
+-1   3    4    PY
+melita
+0   2    2    PY
+memo
+1   0    0    ENG
+men
+1   0    0    ENG
+menace
+0   2    2    PY
+menage
+0   2    2    PY
+menagerie
+3   5    2    ENG
+mendelian
+3   5    2    ENG
+mendie
+2   3    1    ENG
+mending
+3   4    1    ENG
+menhaden
+0   3    3    PY
+menkalinan
+-2   3    5    PY
+mensa
+1   2    1    ENG
+menu
+-1   0    0    PY
+menuhin
+-5   0    5    PY
+mere
+1   0    0    ENG
+meringue
+2   4    2    ENG
+merv
+-1   0    0    PY
+mesa
+-1   0    0    PY
+mesabi
+-2   1    3    PY
+meta
+1   0    0    ENG
+metabolite
+4   6    2    ENG
+metabolize
+2   5    3    ENG
+metalanguage
+4   7    3    ENG
+mete
+1   0    0    ENG
+mexicali
+4   5    1    ENG
+mexican
+3   4    1    ENG
+mi
+-1   0    0    PY
+mica
+1   0    0    ENG
+mice
+-1   0    0    PY
+michale
+1   3    2    ENG
+michele
+3   4    1    ENG
+michelin
+4   5    1    ENG
+michelina
+5   6    1    ENG
+micheline
+5   6    1    ENG
+michigan
+4   5    1    ENG
+michiganite
+7   8    1    ENG
+midi
+-1   0    0    PY
+mien
+-1   0    0    PY
+miguela
+-1   2    3    PY
+miguelita
+1   4    3    ENG
+mike
+-1   0    0    PY
+milan
+1   2    1    ENG
+milanese
+4   5    1    ENG
+mile
+1   0    0    ENG
+milena
+0   2    2    PY
+militate
+4   5    1    ENG
+mime
+-1   0    0    PY
+mimi
+-1   0    0    PY
+mimosa
+-4   0    4    PY
+min
+-1   0    0    PY
+mina
+1   0    0    ENG
+mince
+-1   1    2    PY
+minda
+-1   1    2    PY
+mindanao
+-2   2    4    PY
+mine
+1   0    0    ENG
+miner
+1   2    1    ENG
+ming
+1   0    0    ENG
+mingle
+2   3    1    ENG
+mini
+1   0    0    ENG
+minibike
+-4   1    5    PY
+minima
+2   3    1    ENG
+minimize
+0   3    3    PY
+mining
+2   3    1    ENG
+minke
+-1   1    2    PY
+minna
+-1   1    2    PY
+minnaminnie
+-1   4    5    PY
+minne
+1   2    1    ENG
+minni
+1   2    1    ENG
+minnie
+0   2    2    PY
+minta
+-1   1    2    PY
+mintage
+1   3    2    ENG
+mintaka
+-3   1    4    PY
+minute
+2   3    1    ENG
+minuteman
+3   5    2    ENG
+minutemen
+3   5    2    ENG
+miquela
+-1   2    3    PY
+miran
+-1   1    2    PY
+miranda
+1   3    2    ENG
+mire
+1   0    0    ENG
+mirv
+-1   0    0    PY
+misadventure
+6   8    2    ENG
+misha
+-1   1    2    PY
+misuse
+-2   1    3    PY
+mite
+1   0    0    ENG
+mitigate
+2   4    2    ENG
+mo
+-1   0    0    PY
+moan
+1   0    0    ENG
+mobile
+0   2    2    PY
+mobilize
+4   5    1    ENG
+mobutu
+-4   0    4    PY
+mocha
+-1   1    2    PY
+mode
+1   0    0    ENG
+modeling
+2   4    2    ENG
+modula
+0   2    2    PY
+modulate
+2   4    2    ENG
+module
+0   2    2    PY
+moduli
+-2   1    3    PY
+moen
+-1   0    0    PY
+mogadishu
+-3   2    5    PY
+mohegan
+-3   1    4    PY
+mole
+1   0    0    ENG
+molecule
+0   3    3    PY
+moliere
+-3   1    4    PY
+molina
+0   2    2    PY
+moline
+0   2    2    PY
+momenta
+3   4    1    ENG
+mona
+1   0    0    ENG
+monetize
+0   3    3    PY
+monger
+0   2    2    PY
+monica
+2   3    1    ENG
+monika
+-2   1    3    PY
+monique
+1   3    2    ENG
+mopier
+0   2    2    PY
+moping
+-2   1    3    PY
+moraine
+1   3    2    ENG
+moran
+1   2    1    ENG
+more
+1   0    0    ENG
+moreen
+0   2    2    PY
+morehouse
+1   4    3    ENG
+morena
+0   2    2    PY
+morie
+1   2    1    ENG
+morin
+1   2    1    ENG
+mose
+1   0    0    ENG
+moshe
+-3   0    3    PY
+mote
+1   0    0    ENG
+motile
+0   2    2    PY
+mouse
+1   2    1    ENG
+moxie
+-3   0    3    PY
+mu
+-1   0    0    PY
+mucilage
+-2   2    4    PY
+muire
+-1   1    2    PY
+mule
+-1   0    0    PY
+muleteer
+0   3    3    PY
+mun
+-1   0    0    PY
+muncie
+0   2    2    PY
+mundane
+-1   2    3    PY
+munge
+-1   1    2    PY
+muse
+1   0    0    ENG
+musicale
+4   5    1    ENG
+musician
+4   5    1    ENG
+mutagen
+-1   2    3    PY
+mutate
+0   2    2    PY
+mute
+-1   0    0    PY
+mutilate
+2   4    2    ENG
+mutineer
+2   4    2    ENG
+na
+-1   0    0    PY
+nada
+-1   0    0    PY
+nadean
+-4   0    4    PY
+nadeen
+-4   0    4    PY
+nadine
+2   3    1    ENG
+nadiya
+-2   1    3    PY
+nakayama
+-6   0    6    PY
+nalani
+-2   1    3    PY
+name
+1   0    0    ENG
+namesake
+-2   2    4    PY
+namibian
+-4   1    5    PY
+naming
+0   2    2    PY
+nan
+-1   0    0    PY
+nana
+-1   0    0    PY
+nananne
+-3   1    4    PY
+nance
+1   2    1    ENG
+nanchang
+4   5    1    ENG
+nanci
+1   2    1    ENG
+nancie
+2   3    1    ENG
+nanete
+-2   1    3    PY
+nani
+1   0    0    ENG
+nanice
+2   3    1    ENG
+nanine
+2   3    1    ENG
+nanjing
+-5   0    5    PY
+nanni
+-1   1    2    PY
+nannie
+-2   1    3    PY
+nansen
+-2   1    3    PY
+naoma
+-3   0    3    PY
+naomi
+-3   0    3    PY
+napier
+-2   1    3    PY
+nasa
+1   0    0    ENG
+nasalize
+2   4    2    ENG
+nashua
+-4   0    4    PY
+nata
+1   0    0    ENG
+natala
+0   2    2    PY
+natale
+2   3    1    ENG
+natalie
+3   4    1    ENG
+natalina
+4   5    1    ENG
+nataline
+4   5    1    ENG
+natasha
+3   4    1    ENG
+nate
+1   0    0    ENG
+nature
+2   3    1    ENG
+nazarene
+0   3    3    PY
+nazi
+-1   0    0    PY
+ne
+-1   0    0    PY
+nebula
+-2   1    3    PY
+neda
+-1   0    0    PY
+nedi
+-1   0    0    PY
+nefen
+-1   1    2    PY
+negate
+2   3    1    ENG
+neila
+-3   0    3    PY
+neile
+-3   0    3    PY
+nelie
+-1   1    2    PY
+nepalese
+-2   2    4    PY
+nepali
+-4   0    4    PY
+neruda
+-4   0    4    PY
+ni
+-1   0    0    PY
+niankeshishanghuoguo
+-10   4    14    PY
+niankongzhan
+-10   0    10    PY
+nianlingceshi
+-3   4    7    PY
+nianlingjiance
+-2   5    7    PY
+nianlingjiancexiangji
+-9   5    14    PY
+nianlingjianceyi
+-4   5    9    PY
+nianlingjisuanqi
+-8   3    11    PY
+nianlingxiangji
+-7   3    10    PY
+nianlun
+-5   0    5    PY
+niannianbuwang
+-10   1    11    PY
+niannianbuwangyouzenyang
+-20   1    21    PY
+niannianbuwangzhutibizhimeihua
+-24   2    26    PY
+nianniandashi
+-3   4    7    PY
+niannianmaokafeiguan
+-16   1    17    PY
+niannianshijie
+-8   2    10    PY
+nianniantanshiqiu
+-5   5    10    PY
+niannianxiaochunbing
+-12   3    15    PY
+niannianxiaoheiqiu
+-12   2    14    PY
+niannianyouyuzhuomianzhutibizhimeihua
+-29   3    32    PY
+niannianyouyuzhutibizhimeihua
+-21   3    24    PY
+niannidiwenrouzhuomianzhutibizhimeihua
+-30   3    33    PY
+niannizaihuakaizhiji
+-14   2    16    PY
+nianqingbuzhuailaoliaohouhuizhuomianzhutibizhimeihua
+-46   2    48    PY
+nianqingdiaiqingsiwujidan
+-17   3    20    PY
+nianqingdiwozhutizhuomian
+-21   1    22    PY
+nianqingdixindianxinzhuomianbizhimianfei
+-26   6    32    PY
+nianqingshisuikougeiyudiweilaibizhizhutizhuomianmeihua
+-50   1    51    PY
+nianshaodimengbizhizhutizhuomianmeihua
+-30   3    33    PY
+nianshaoqingkuang
+-13   1    14    PY
+nianshaoqingkuangbizhizhutizhuomianmeihua
+-37   1    38    PY
+nice
+1   0    0    ENG
+nicene
+2   3    1    ENG
+niche
+1   2    1    ENG
+niece
+1   2    1    ENG
+nigerian
+2   4    2    ENG
+nike
+-1   0    0    PY
+nile
+-1   0    0    PY
+nina
+-1   0    0    PY
+nine
+1   0    0    ENG
+ninepence
+1   4    3    ENG
+ninepin
+-1   2    3    PY
+nineteen
+4   5    1    ENG
+nisei
+-1   1    2    PY
+nita
+1   0    0    ENG
+nixie
+-3   0    3    PY
+nu
+-1   0    0    PY
+nuance
+0   2    2    PY
+nubian
+-4   0    4    PY
+nubile
+-4   0    4    PY
+nude
+-1   0    0    PY
+nuisance
+0   3    3    PY
+nuke
+-1   0    0    PY
+nun
+-1   0    0    PY
+nutate
+0   2    2    PY
+nv
+-1   0    0    PY
+outage
+-2   1    3    PY
+outing
+2   3    1    ENG
+pa
+1   0    0    ENG
+pace
+1   0    0    ENG
+padang
+-2   1    3    PY
+pagan
+-3   0    3    PY
+paganini
+-2   2    4    PY
+page
+1   0    0    ENG
+paige
+-1   1    2    PY
+paine
+1   2    1    ENG
+palace
+2   3    1    ENG
+paladin
+1   3    2    ENG
+palatalize
+6   7    1    ENG
+palate
+2   3    1    ENG
+palatinate
+6   7    1    ENG
+palatine
+4   5    1    ENG
+pale
+1   0    0    ENG
+paleface
+0   3    3    PY
+paling
+0   2    2    PY
+palisade
+0   3    3    PY
+pamela
+0   2    2    PY
+pamelina
+0   3    3    PY
+pan
+-1   0    0    PY
+panache
+-1   2    3    PY
+panama
+0   2    2    PY
+panamanian
+0   4    4    PY
+pancake
+-5   0    5    PY
+panda
+1   2    1    ENG
+pane
+1   0    0    ENG
+paneling
+0   3    3    PY
+pang
+-1   0    0    PY
+panier
+0   2    2    PY
+pannier
+-3   1    4    PY
+panning
+1   3    2    ENG
+pansie
+2   3    1    ENG
+pantie
+2   3    1    ENG
+panza
+-3   0    3    PY
+paola
+-3   0    3    PY
+paoli
+-3   0    3    PY
+paolina
+-1   2    3    PY
+papa
+1   0    0    ENG
+papagena
+0   3    3    PY
+papaya
+-2   1    3    PY
+pare
+1   0    0    ENG
+parentage
+5   6    1    ENG
+pasadena
+-4   1    5    PY
+pasha
+-1   1    2    PY
+pate
+1   0    0    ENG
+paten
+1   2    1    ENG
+patience
+4   5    1    ENG
+patin
+1   2    1    ENG
+patina
+2   3    1    ENG
+patine
+2   3    1    ENG
+pei
+-1   0    0    PY
+peiping
+-3   1    4    PY
+pen
+1   0    0    ENG
+penance
+3   4    1    ENG
+pence
+1   2    1    ENG
+pending
+3   4    1    ENG
+pengpengqian
+-10   0    10    PY
+pengpengqiukupao
+-14   0    14    PY
+pengpengsanguo
+-8   2    10    PY
+pengpengtang
+-6   2    8    PY
+pengpengtangguo
+-9   2    11    PY
+pengpengtie
+-7   1    8    PY
+pengpengyuhanhuaban
+-15   1    16    PY
+pengpengzhu
+-9   0    9    PY
+pengranxindong
+0   6    6    PY
+pengranxindongzhuomianzhutimeihua
+-17   7    24    PY
+pengranxingdongdianying
+-3   9    12    PY
+pengren
+1   3    2    ENG
+pengrendachu
+4   7    3    ENG
+pengrunnongye
+-5   3    8    PY
+pengtiaoshuyu
+-9   1    10    PY
+pengtou
+-1   2    3    PY
+pengtouzhiditudaohangyi
+-9   6    15    PY
+pengyangyang
+-10   0    10    PY
+pengyou
+-5   0    5    PY
+pengyoubiqingrenhuansixintadi
+-15   6    21    PY
+pengyoudianxinzhutibizhimeihua
+-22   3    25    PY
+pengyoufengjing
+-13   0    13    PY
+pengyouhui
+-8   0    8    PY
+pengyoumen
+-6   1    7    PY
+pengyouquan
+-7   1    8    PY
+pengyouquanjingxuan
+-15   1    16    PY
+penman
+-4   0    4    PY
+penmen
+-2   1    3    PY
+penna
+-1   1    2    PY
+penni
+1   2    1    ENG
+pennie
+0   2    2    PY
+penning
+3   4    1    ENG
+pi
+-1   0    0    PY
+pica
+1   0    0    ENG
+picayune
+-4   1    5    PY
+pie
+-1   0    0    PY
+piece
+1   2    1    ENG
+pier
+1   0    0    ENG
+pierce
+2   3    1    ENG
+pierre
+2   3    1    ENG
+pike
+-1   0    0    PY
+pilate
+0   2    2    PY
+pile
+1   0    0    ENG
+piling
+0   2    2    PY
+pin
+1   0    0    ENG
+pinafore
+-2   2    4    PY
+pinatubo
+0   3    3    PY
+pine
+1   0    0    ENG
+ping
+-1   0    0    PY
+pining
+2   3    1    ENG
+pinkeye
+-1   2    3    PY
+pinkie
+0   2    2    PY
+pinnate
+1   3    2    ENG
+pinning
+3   4    1    ENG
+pinyin
+-2   1    3    PY
+piping
+-2   1    3    PY
+pique
+-1   1    2    PY
+piranha
+-3   1    4    PY
+pisa
+-1   0    0    PY
+pita
+1   0    0    ENG
+pitier
+2   3    1    ENG
+pixie
+-3   0    3    PY
+po
+-1   0    0    PY
+poke
+1   0    0    ENG
+pole
+1   0    0    ENG
+police
+2   3    1    ENG
+policeman
+5   6    1    ENG
+policemen
+5   6    1    ENG
+policewoman
+1   5    4    ENG
+policewomen
+1   5    4    ENG
+poling
+2   3    1    ENG
+polite
+2   3    1    ENG
+politician
+6   7    1    ENG
+politicize
+4   6    2    ENG
+pomade
+0   2    2    PY
+pomona
+-2   1    3    PY
+pone
+1   0    0    ENG
+populace
+2   4    2    ENG
+populate
+4   5    1    ENG
+populating
+6   7    1    ENG
+pore
+1   0    0    ENG
+pose
+1   0    0    ENG
+potage
+0   2    2    PY
+potentate
+5   6    1    ENG
+pu
+-1   0    0    PY
+puce
+-1   0    0    PY
+pudenda
+-1   2    3    PY
+puke
+-1   0    0    PY
+pule
+1   0    0    ENG
+puma
+-1   0    0    PY
+pumice
+-4   0    4    PY
+pun
+-1   0    0    PY
+punning
+1   3    2    ENG
+pupa
+-1   0    0    PY
+pupate
+0   2    2    PY
+pure
+1   0    0    ENG
+purulence
+5   6    1    ENG
+pusan
+-1   1    2    PY
+putin
+1   2    1    ENG
+qianshanmuxue
+-7   2    9    PY
+qianshanmuxuezhiyingxiangshuiqu
+-25   2    27    PY
+qianshenjue
+-5   2    7    PY
+qianshidiyuanfenbizhizhutizhuomianmeihua
+-34   2    36    PY
+qianshijinshengzhiyueyinlishang
+-13   8    21    PY
+qianshiyuanjinshengqing
+-13   4    17    PY
+qianshou
+-4   1    5    PY
+qianshoubang
+-8   1    9    PY
+qianshoubizhizhutizhuomianmeihua
+-28   1    29    PY
+qianshoubufangkai
+-13   1    14    PY
+qianshoudaolaozhuomianzhutibizhimeihua
+-32   2    34    PY
+qianshoudongtaisuopingzhutizhuomianzhutibizhimeihua
+-43   3    46    PY
+qianshouqingren
+-5   4    9    PY
+qianshouwang
+-8   1    9    PY
+qianshouxiangban
+-12   1    13    PY
+qianshouyibeizi
+-9   2    11    PY
+qianshouyishengdixingfu
+-13   4    17    PY
+qianshouyizhizoumianfeizhutibizhi
+-27   2    29    PY
+qianshuidaren
+-7   2    9    PY
+qianshuimaoxian
+-13   0    13    PY
+qingdao
+-3   1    4    PY
+qua
+-1   0    0    PY
+quake
+-3   0    3    PY
+quanta
+2   3    1    ENG
+quantile
+4   5    1    ENG
+quantize
+2   4    2    ENG
+quarantine
+6   7    1    ENG
+quasi
+-3   0    3    PY
+que
+1   0    0    ENG
+quechua
+-5   0    5    PY
+queen
+-1   1    2    PY
+queer
+-1   1    2    PY
+quentin
+3   4    1    ENG
+quiche
+0   2    2    PY
+quinine
+1   3    2    ENG
+quire
+1   2    1    ENG
+quite
+1   2    1    ENG
+quo
+-1   0    0    PY
+quota
+-1   1    2    PY
+quote
+-1   1    2    PY
+quotidian
+-3   2    5    PY
+railing
+3   4    1    ENG
+raina
+1   2    1    ENG
+raine
+1   2    1    ENG
+rainier
+-1   2    3    PY
+raise
+1   2    1    ENG
+raisin
+2   3    1    ENG
+ran
+1   0    0    ENG
+rance
+1   2    1    ENG
+randa
+1   2    1    ENG
+randene
+3   4    1    ENG
+randi
+1   2    1    ENG
+randie
+2   3    1    ENG
+rang
+1   0    0    ENG
+range
+1   2    1    ENG
+ranger
+2   3    1    ENG
+rankin
+2   3    1    ENG
+ranna
+-1   1    2    PY
+ranting
+3   4    1    ENG
+re
+1   0    0    ENG
+reba
+-1   0    0    PY
+rebate
+0   2    2    PY
+rebating
+2   4    2    ENG
+rebuke
+-2   1    3    PY
+recapitulating
+4   8    4    ENG
+recede
+2   3    1    ENG
+receding
+4   5    1    ENG
+recite
+0   2    2    PY
+reciting
+2   4    2    ENG
+recouping
+1   4    3    ENG
+recuse
+0   2    2    PY
+rededicating
+6   8    2    ENG
+redepositing
+6   8    2    ENG
+reduce
+2   3    1    ENG
+refinance
+5   6    1    ENG
+refueling
+-1   3    4    PY
+refuge
+0   2    2    PY
+refunding
+5   6    1    ENG
+refuse
+2   3    1    ENG
+refute
+-2   1    3    PY
+regaining
+5   6    1    ENG
+regale
+0   2    2    PY
+regaling
+2   4    2    ENG
+regan
+1   2    1    ENG
+regen
+1   2    1    ENG
+regulate
+4   5    1    ENG
+rehabilitate
+6   8    2    ENG
+rehang
+2   3    1    ENG
+reina
+-1   1    2    PY
+reine
+-1   1    2    PY
+reinventing
+5   7    2    ENG
+relate
+2   3    1    ENG
+relaxing
+0   3    3    PY
+relegating
+6   7    1    ENG
+relenting
+5   6    1    ENG
+reliance
+4   5    1    ENG
+relicense
+5   6    1    ENG
+remade
+0   2    2    PY
+remake
+0   2    2    PY
+reminding
+5   6    1    ENG
+remixing
+-2   2    4    PY
+remote
+2   3    1    ENG
+rena
+1   0    0    ENG
+renaming
+0   3    3    PY
+renata
+2   3    1    ENG
+renate
+2   3    1    ENG
+rene
+1   0    0    ENG
+renegade
+-2   2    4    PY
+renege
+-2   1    3    PY
+renie
+-1   1    2    PY
+rennie
+-2   1    3    PY
+rennin
+0   2    2    PY
+renshengzongzaibutingdixuanzezhuomianzhutibizhimeihua
+-33   9    42    PY
+renshentibuweibaobaobashi
+-11   6    17    PY
+renshetongliangshan
+-1   8    9    PY
+renshetongqianxinan
+-5   6    11    PY
+renshicajianerguodimoshengren
+-11   8    19    PY
+renshidongwu
+-6   2    8    PY
+renshidongwubaobaozaojiao
+-19   2    21    PY
+renshidongwuduoduoaikexue
+-19   2    21    PY
+renshiguangcongcongliuquwozhizaihuni
+-22   6    28    PY
+renshiguzheng
+-5   3    8    PY
+renshihanzi
+-5   2    7    PY
+renshihuahuibaobaozaojiao
+-19   2    21    PY
+renshikonglong
+-4   4    8    PY
+renshirenwubaobaozaojiao
+-14   4    18    PY
+renshishenti
+0   5    5    PY
+renshishucai
+-6   2    8    PY
+renshishucaibaobaozaojiao
+-19   2    21    PY
+renshishuiguobaobaozaojiao
+-20   2    22    PY
+repaying
+0   3    3    PY
+repentance
+6   7    1    ENG
+repine
+2   3    1    ENG
+repiner
+3   4    1    ENG
+repining
+4   5    1    ENG
+repopulate
+4   6    2    ENG
+repopulating
+6   8    2    ENG
+repose
+2   3    1    ENG
+repute
+2   3    1    ENG
+reputing
+4   5    1    ENG
+require
+3   4    1    ENG
+requisite
+5   6    1    ENG
+requite
+3   4    1    ENG
+requiting
+5   6    1    ENG
+rerouting
+3   5    2    ENG
+rerunning
+1   4    3    ENG
+reshaping
+-1   3    4    PY
+reside
+2   3    1    ENG
+residence
+5   6    1    ENG
+residua
+1   3    2    ENG
+residue
+-1   2    3    PY
+resilience
+4   6    2    ENG
+resin
+-1   1    2    PY
+resining
+2   4    2    ENG
+resinlike
+-1   3    4    PY
+resize
+0   2    2    PY
+resume
+2   3    1    ENG
+reta
+1   0    0    ENG
+retailing
+5   6    1    ENG
+retake
+0   2    2    PY
+retaken
+1   3    2    ENG
+reticence
+5   6    1    ENG
+reticulate
+6   7    1    ENG
+reticule
+4   5    1    ENG
+retina
+2   3    1    ENG
+retinue
+3   4    1    ENG
+retire
+2   3    1    ENG
+rinse
+-1   1    2    PY
+rouge
+-1   1    2    PY
+rouse
+1   2    1    ENG
+route
+1   2    1    ENG
+routine
+3   4    1    ENG
+routing
+3   4    1    ENG
+routinize
+3   5    2    ENG
+ru
+-1   0    0    PY
+ruben
+-1   1    2    PY
+rubi
+-1   0    0    PY
+rubie
+-3   0    3    PY
+rubin
+-3   0    3    PY
+rubina
+-2   1    3    PY
+rude
+1   0    0    ENG
+rudie
+-1   1    2    PY
+rue
+-1   0    0    PY
+rule
+1   0    0    ENG
+ruling
+0   2    2    PY
+rumanian
+0   3    3    PY
+rumen
+1   2    1    ENG
+ruminate
+2   4    2    ENG
+run
+1   0    0    ENG
+rune
+-1   0    0    PY
+runge
+-1   1    2    PY
+running
+3   4    1    ENG
+runtime
+1   3    2    ENG
+ruse
+-1   0    0    PY
+rutabaga
+-4   1    5    PY
+rv
+-1   0    0    PY
+sa
+-1   0    0    PY
+saba
+-1   0    0    PY
+sabin
+1   2    1    ENG
+sabina
+2   3    1    ENG
+sabine
+2   3    1    ENG
+sabotage
+-4   1    5    PY
+sacha
+1   2    1    ENG
+sada
+-1   0    0    PY
+sade
+-1   0    0    PY
+sadie
+-1   1    2    PY
+saga
+-1   0    0    PY
+sagan
+-3   0    3    PY
+sage
+1   0    0    ENG
+saharan
+-1   2    3    PY
+sailing
+3   4    1    ENG
+sakai
+-3   0    3    PY
+sake
+1   0    0    ENG
+saladin
+1   3    2    ENG
+salami
+2   3    1    ENG
+sale
+1   0    0    ENG
+salience
+4   5    1    ENG
+salina
+2   3    1    ENG
+saline
+2   3    1    ENG
+salinger
+4   5    1    ENG
+salute
+2   3    1    ENG
+salver
+0   2    2    PY
+same
+1   0    0    ENG
+samoan
+0   2    2    PY
+samuele
+-1   2    3    PY
+samurai
+-1   2    3    PY
+san
+1   0    0    ENG
+sana
+-1   0    0    PY
+sande
+1   2    1    ENG
+sandi
+1   2    1    ENG
+sandie
+2   3    1    ENG
+sane
+-1   0    0    PY
+sang
+1   0    0    ENG
+sanger
+2   3    1    ENG
+sanguine
+4   5    1    ENG
+sanguining
+4   6    2    ENG
+saning
+2   3    1    ENG
+sanitarian
+6   7    1    ENG
+sanitate
+4   5    1    ENG
+sanitize
+4   5    1    ENG
+santa
+1   2    1    ENG
+santana
+1   3    2    ENG
+santayana
+-3   2    5    PY
+sapience
+-2   2    4    PY
+saran
+-1   1    2    PY
+sarena
+2   3    1    ENG
+sarene
+2   3    1    ENG
+sarong
+-2   1    3    PY
+sase
+-1   0    0    PY
+sasha
+-1   1    2    PY
+sashenka
+-2   2    4    PY
+satan
+-3   0    3    PY
+sate
+1   0    0    ENG
+sateen
+0   2    2    PY
+satin
+1   2    1    ENG
+sating
+2   3    1    ENG
+satire
+0   2    2    PY
+saying
+0   2    2    PY
+se
+-1   0    0    PY
+sean
+-1   0    0    PY
+secede
+2   3    1    ENG
+secure
+2   3    1    ENG
+sedan
+-3   0    3    PY
+sedate
+-2   1    3    PY
+seduce
+0   2    2    PY
+seen
+1   0    0    ENG
+seer
+-1   0    0    PY
+segue
+-3   0    3    PY
+seine
+-3   0    3    PY
+seize
+1   2    1    ENG
+seizin
+2   3    1    ENG
+seizure
+1   3    2    ENG
+seka
+-1   0    0    PY
+sela
+-1   0    0    PY
+selena
+0   2    2    PY
+selenate
+2   4    2    ENG
+selene
+2   3    1    ENG
+selenite
+2   4    2    ENG
+selie
+-1   1    2    PY
+selina
+0   2    2    PY
+selinda
+-1   2    3    PY
+seline
+0   2    2    PY
+semarang
+4   5    1    ENG
+semen
+1   2    1    ENG
+semi
+1   0    0    ENG
+seminarian
+6   7    1    ENG
+semite
+2   3    1    ENG
+semolina
+-2   2    4    PY
+sen
+-1   0    0    PY
+sena
+1   0    0    ENG
+senate
+2   3    1    ENG
+sendai
+0   2    2    PY
+seneca
+-2   1    3    PY
+senegalese
+0   4    4    PY
+senile
+0   2    2    PY
+senna
+-3   0    3    PY
+sensate
+3   4    1    ENG
+sense
+1   2    1    ENG
+sensitize
+5   6    1    ENG
+sentence
+4   5    1    ENG
+sentience
+5   6    1    ENG
+sentimentalize
+10   11    1    ENG
+sequence
+4   5    1    ENG
+sequoya
+-3   1    4    PY
+sere
+1   0    0    ENG
+serena
+2   3    1    ENG
+serenade
+2   4    2    ENG
+serene
+2   3    1    ENG
+serengeti
+3   5    2    ENG
+server
+0   2    2    PY
+sesame
+-2   1    3    PY
+sewage
+-2   1    3    PY
+shade
+1   2    1    ENG
+shading
+1   3    2    ENG
+shaina
+0   2    2    PY
+shaine
+0   2    2    PY
+shake
+1   2    1    ENG
+shaken
+2   3    1    ENG
+shale
+-1   1    2    PY
+shaman
+-2   1    3    PY
+shame
+1   2    1    ENG
+shaming
+3   4    1    ENG
+shan
+1   0    0    ENG
+shana
+-1   1    2    PY
+shanan
+-2   1    3    PY
+shanda
+2   3    1    ENG
+shandie
+3   4    1    ENG
+shane
+-1   1    2    PY
+shangdian
+-1   3    4    PY
+shangdiantaoyi
+-2   5    7    PY
+shangdianwuyu
+-5   3    8    PY
+shangdichaping
+-2   5    7    PY
+shangdituya
+-5   2    7    PY
+shangdiyefengkuang
+-10   3    13    PY
+shangfangbaojian
+-10   2    12    PY
+shangfuyilingyi
+-5   4    9    PY
+shangganaiqingdongtaibizhi
+-16   4    20    PY
+shanggandashengguilaizhuomianzhutibizhimeihua
+-27   8    35    PY
+shanggandianxinzhuomianbizhimianfei
+-21   6    27    PY
+shanggandianxinzhutibizhimeihua
+-15   7    22    PY
+shanggandigudusuiyuezhuomianmianfeizhuti
+-30   4    34    PY
+shangganfeizhuliudongtaibizhi
+-23   2    25    PY
+shangganlingsheng
+-1   7    8    PY
+shanggantianchengzuozhuomianzhutibizhimeihua
+-24   9    33    PY
+shangganxiaohuzi
+-8   3    11    PY
+shanggeshijidilangman
+-5   7    12    PY
+shanggoudiyuduhenmei
+-14   2    16    PY
+shanggumoshu
+-6   2    8    PY
+shangguqiyuanzhixianjiehaojie
+-23   2    25    PY
+shanggushouyin
+-4   4    8    PY
+shangguxiexiu
+-7   2    9    PY
+shangguzhanhun
+-8   2    10    PY
+shanghai
+-2   2    4    PY
+shanghai
+-2   2    4    PY
+shanghaibaojing
+-9   2    11    PY
+shanghaibaoxian
+-9   2    11    PY
+shanghaibowuguandaquan
+-12   4    16    PY
+shanghaicanyinwang
+-4   6    10    PY
+shanghaichangtunanzhan
+-6   7    13    PY
+shanghaichengshiguanli
+-12   4    16    PY
+shanghaichengshiguihua
+-14   3    17    PY
+shanghaichezhandaohangyi
+-10   6    16    PY
+shani
+1   2    1    ENG
+shanie
+2   3    1    ENG
+shanna
+2   3    1    ENG
+shannan
+1   3    2    ENG
+shannen
+1   3    2    ENG
+shanta
+2   3    1    ENG
+sharai
+0   2    2    PY
+share
+1   2    1    ENG
+shareware
+5   6    1    ENG
+she
+1   0    0    ENG
+sheba
+-3   0    3    PY
+shebang
+-5   0    5    PY
+sheen
+-1   1    2    PY
+sheer
+1   2    1    ENG
+sheila
+-4   0    4    PY
+shela
+-1   1    2    PY
+shelver
+-1   2    3    PY
+shena
+-1   1    2    PY
+shenanigan
+0   4    4    PY
+shenyang
+-4   1    5    PY
+sherie
+2   3    1    ENG
+shi
+-1   0    0    PY
+shin
+1   0    0    ENG
+shina
+-1   1    2    PY
+shinbone
+-2   2    4    PY
+shine
+1   2    1    ENG
+shiner
+2   3    1    ENG
+shining
+3   4    1    ENG
+shinning
+4   5    1    ENG
+shire
+-1   1    2    PY
+shu
+-1   0    0    PY
+shun
+-1   0    0    PY
+shunning
+0   3    3    PY
+shuteye
+-3   1    4    PY
+si
+-1   0    0    PY
+sian
+1   0    0    ENG
+sianna
+0   2    2    PY
+sibilance
+3   5    2    ENG
+sicilian
+2   4    2    ENG
+side
+1   0    0    ENG
+sideline
+4   5    1    ENG
+sidelong
+2   4    2    ENG
+sideman
+1   3    2    ENG
+sidemen
+-1   2    3    PY
+sidepiece
+-1   3    4    PY
+siding
+2   3    1    ENG
+siege
+-3   0    3    PY
+siena
+-3   0    3    PY
+sienna
+-2   1    3    PY
+silage
+0   2    2    PY
+sile
+1   0    0    ENG
+silence
+3   4    1    ENG
+silica
+2   3    1    ENG
+silicate
+4   5    1    ENG
+silicide
+4   5    1    ENG
+silurian
+-2   2    4    PY
+silvan
+0   2    2    PY
+silver
+0   2    2    PY
+silverer
+0   3    3    PY
+silverman
+1   4    3    ENG
+silverware
+4   6    2    ENG
+simian
+-2   1    3    PY
+simile
+2   3    1    ENG
+similitude
+6   7    1    ENG
+simona
+2   3    1    ENG
+simone
+2   3    1    ENG
+simonize
+4   5    1    ENG
+simula
+2   3    1    ENG
+simulate
+4   5    1    ENG
+sin
+1   0    0    ENG
+sinai
+-3   0    3    PY
+since
+1   2    1    ENG
+sincere
+3   4    1    ENG
+sine
+1   0    0    ENG
+sinecure
+0   3    3    PY
+singapore
+-3   2    5    PY
+singaporean
+-3   3    6    PY
+singe
+1   2    1    ENG
+sinhalese
+-1   3    4    PY
+sinning
+1   3    2    ENG
+siouxie
+-5   0    5    PY
+sire
+1   0    0    ENG
+siren
+1   2    1    ENG
+sisile
+0   2    2    PY
+site
+1   0    0    ENG
+siting
+2   3    1    ENG
+situ
+1   0    0    ENG
+situate
+3   4    1    ENG
+siusan
+-2   1    3    PY
+size
+1   0    0    ENG
+song
+1   0    0    ENG
+songhai
+-3   1    4    PY
+songhua
+-3   1    4    PY
+sou
+-1   0    0    PY
+sousa
+-1   1    2    PY
+souse
+-1   1    2    PY
+subaru
+-4   0    4    PY
+sudan
+-3   0    3    PY
+sudanese
+-2   2    4    PY
+sue
+-1   0    0    PY
+suede
+-3   0    3    PY
+suer
+-1   0    0    PY
+sui
+-1   0    0    PY
+suicide
+3   4    1    ENG
+suite
+1   2    1    ENG
+suiting
+3   4    1    ENG
+sula
+1   0    0    ENG
+suleiman
+-6   0    6    PY
+sumerian
+4   5    1    ENG
+sumo
+-1   0    0    PY
+sun
+1   0    0    ENG
+sundanese
+3   5    2    ENG
+sunni
+-1   1    2    PY
+sunning
+1   3    2    ENG
+sunnite
+-1   2    3    PY
+sunshade
+4   5    1    ENG
+sunshine
+4   5    1    ENG
+suntan
+0   2    2    PY
+suntanning
+2   5    3    ENG
+supine
+0   2    2    PY
+sure
+1   0    0    ENG
+susan
+-1   1    2    PY
+susana
+-2   1    3    PY
+susanna
+-1   2    3    PY
+susanne
+-1   2    3    PY
+sushi
+-1   1    2    PY
+susi
+-1   0    0    PY
+susie
+-3   0    3    PY
+suture
+2   3    1    ENG
+suzanna
+-3   1    4    PY
+suzanne
+-3   1    4    PY
+suzhou
+-4   0    4    PY
+suzi
+-1   0    0    PY
+suzie
+-3   0    3    PY
+sven
+-1   0    0    PY
+svengali
+-2   2    4    PY
+ta
+-1   0    0    PY
+tabina
+2   3    1    ENG
+tabula
+-2   1    3    PY
+tabulate
+0   3    3    PY
+taiga
+-3   0    3    PY
+tailing
+3   4    1    ENG
+tainan
+2   3    1    ENG
+taine
+1   2    1    ENG
+taipei
+-4   0    4    PY
+taite
+-1   1    2    PY
+taiwan
+-4   0    4    PY
+taiwanese
+-3   2    5    PY
+taiyuan
+-5   0    5    PY
+take
+1   0    0    ENG
+taken
+1   2    1    ENG
+tale
+1   0    0    ENG
+tali
+1   0    0    ENG
+taliesin
+0   3    3    PY
+tamale
+-2   1    3    PY
+tame
+-1   0    0    PY
+tameka
+-4   0    4    PY
+tami
+1   0    0    ENG
+tamika
+-2   1    3    PY
+taming
+2   3    1    ENG
+tan
+-1   0    0    PY
+tana
+-1   0    0    PY
+tanaka
+-4   0    4    PY
+tandi
+1   2    1    ENG
+tandie
+2   3    1    ENG
+tang
+1   0    0    ENG
+tanganyika
+-4   2    6    PY
+tangle
+2   3    1    ENG
+tangshan
+-2   2    4    PY
+tani
+1   0    0    ENG
+tanisha
+1   3    2    ENG
+tannie
+-2   1    3    PY
+tannin
+0   2    2    PY
+tanning
+1   3    2    ENG
+tantalize
+5   6    1    ENG
+tanya
+-3   0    3    PY
+tanzanian
+-5   1    6    PY
+tao
+-1   0    0    PY
+taping
+-2   1    3    PY
+tarantula
+-1   3    4    PY
+tare
+1   0    0    ENG
+tasha
+1   2    1    ENG
+tatami
+0   2    2    PY
+tate
+1   0    0    ENG
+taxi
+1   0    0    ENG
+taxing
+-2   1    3    PY
+te
+-1   0    0    PY
+tedi
+-1   0    0    PY
+tedie
+-1   1    2    PY
+teen
+1   0    0    ENG
+teheran
+-1   2    3    PY
+telefunken
+-2   3    5    PY
+telugu
+-4   0    4    PY
+ten
+1   0    0    ENG
+tending
+3   4    1    ENG
+tenpin
+-4   0    4    PY
+tense
+1   2    1    ENG
+tensile
+3   4    1    ENG
+tenting
+3   4    1    ENG
+tenure
+0   2    2    PY
+tequila
+-1   2    3    PY
+terence
+3   4    1    ENG
+teresa
+2   3    1    ENG
+terese
+2   3    1    ENG
+teresina
+0   3    3    PY
+teresita
+4   5    1    ENG
+texan
+1   2    1    ENG
+ti
+-1   0    0    PY
+tiandaoyoushang
+-5   4    9    PY
+tiandayigou
+-7   1    8    PY
+tiandian
+0   3    3    PY
+tiandianbizhizhutizhuomianmeihua
+-24   3    27    PY
+tiandianlailiao
+-3   5    8    PY
+tiandianpai
+-3   3    6    PY
+tiandiantangguohuawen
+-5   7    12    PY
+tiandianxiaochu
+-3   5    8    PY
+tiandianxiaoxiaole
+-8   4    12    PY
+tiandianzhuti
+-5   3    8    PY
+tiandichemeng
+1   6    5    ENG
+tiandichuanshuo
+-9   2    11    PY
+tiandihang
+-4   2    6    PY
+tiandilonglang
+0   6    6    PY
+tianditansuo
+-2   4    6    PY
+tianditunshi
+-2   4    6    PY
+tiandituxuzhou
+-8   2    10    PY
+tiandixiao
+-6   1    7    PY
+tiandiyongshi
+-7   2    9    PY
+tianduyaoshou
+-7   2    9    PY
+tianfangdiyuan
+-10   1    11    PY
+tianfangyetan
+-7   2    9    PY
+tianjin
+-5   0    5    PY
+tide
+1   0    0    ENG
+tie
+1   0    0    ENG
+tiena
+-1   1    2    PY
+tienanmen
+-1   3    4    PY
+tier
+1   0    0    ENG
+tijuana
+-5   0    5    PY
+tike
+-1   0    0    PY
+tile
+1   0    0    ENG
+tiling
+2   3    1    ENG
+time
+1   0    0    ENG
+timebase
+-2   2    4    PY
+timepiece
+-1   3    4    PY
+timeserver
+0   4    4    PY
+timeshare
+-1   3    4    PY
+timi
+1   0    0    ENG
+timing
+2   3    1    ENG
+timofei
+-3   1    4    PY
+tin
+-1   0    0    PY
+tina
+1   0    0    ENG
+tine
+1   0    0    ENG
+ting
+1   0    0    ENG
+tinge
+1   2    1    ENG
+tingle
+2   3    1    ENG
+tingling
+4   5    1    ENG
+tinning
+1   3    2    ENG
+tinware
+1   3    2    ENG
+tipi
+-1   0    0    PY
+tire
+1   0    0    ENG
+tisha
+-3   0    3    PY
+titan
+-1   1    2    PY
+titanate
+0   3    3    PY
+titian
+0   2    2    PY
+titicaca
+2   4    2    ENG
+tong
+1   0    0    ENG
+tongan
+-2   1    3    PY
+toucan
+-2   1    3    PY
+toulouse
+0   3    3    PY
+tuamotu
+-5   0    5    PY
+tuba
+-1   0    0    PY
+tubing
+-4   0    4    PY
+tubule
+-4   0    4    PY
+tucuman
+-3   1    4    PY
+tue
+-1   0    0    PY
+tulane
+2   3    1    ENG
+tun
+-1   0    0    PY
+tuna
+1   0    0    ENG
+tune
+1   0    0    ENG
+tuner
+1   2    1    ENG
+tuning
+2   3    1    ENG
+tunisian
+2   4    2    ENG
+tunning
+1   3    2    ENG
+tupi
+1   0    0    ENG
+tureen
+0   2    2    PY
+turin
+1   2    1    ENG
+tutelage
+2   4    2    ENG
+tutu
+-1   0    0    PY
+tv
+-1   0    0    PY
+wa
+-1   0    0    PY
+wade
+-1   0    0    PY
+wadi
+-1   0    0    PY
+wading
+0   2    2    PY
+wage
+1   0    0    ENG
+waite
+1   2    1    ENG
+wake
+1   0    0    ENG
+waken
+1   2    1    ENG
+wale
+-1   0    0    PY
+walesa
+-2   1    3    PY
+waling
+0   2    2    PY
+wan
+-1   0    0    PY
+wanda
+1   2    1    ENG
+wandie
+2   3    1    ENG
+wane
+-1   0    0    PY
+waneta
+-4   0    4    PY
+wang
+-1   0    0    PY
+wangbabanlv
+-7   1    8    PY
+wangbaoqiangnibiepao
+-18   0    18    PY
+wangbianpeixun
+-12   0    12    PY
+wangbuliao
+-6   1    7    PY
+wangbuliaodiliyifengzhuomianzhutibizhimeihua
+-38   2    40    PY
+wangcaicaijing
+-12   0    12    PY
+wangcaidoudizhu
+-13   0    13    PY
+wangcaishuangseqiufenxibaguaban
+-27   1    28    PY
+wangcaishuangseqiuyuce
+-20   0    20    PY
+wangcaishuangseqiuyucebaguaban
+-26   1    27    PY
+wangceshisudu
+-9   1    10    PY
+wangcesudu
+-8   0    8    PY
+wangcheduihuozhuduan
+-18   0    18    PY
+wangcheduisijiduan
+-12   2    14    PY
+wangchehuozhuduan
+-15   0    15    PY
+wangchengxuanxie
+-10   2    12    PY
+wangchuanqiuku
+-12   0    12    PY
+wangcuomeinvsiyifu
+-16   0    16    PY
+wangdachui
+-4   2    6    PY
+wangdachuididatiaozhan
+-8   6    14    PY
+wangdaibao
+-8   0    8    PY
+wangdaitianyan
+-8   2    10    PY
+wangdiaoguoqubizhizhutizhuomianmeihua
+-35   0    35    PY
+wangdiaozuotian
+-11   1    12    PY
+wangdongchengbizhi
+-14   1    15    PY
+wangdongchengshuai
+-14   1    15    PY
+wangfei
+-5   0    5    PY
+wangle
+0   2    2    PY
+waning
+0   2    2    PY
+wanna
+-1   1    2    PY
+wanning
+1   3    2    ENG
+wapiti
+0   2    2    PY
+ware
+1   0    0    ENG
+warehouse
+1   4    3    ENG
+warehouseman
+4   7    3    ENG
+watusi
+-2   1    3    PY
+wei
+-1   0    0    PY
+wen
+-1   0    0    PY
+wenda
+-1   1    2    PY
+wendeline
+1   4    3    ENG
+wendi
+-1   1    2    PY
+wendie
+0   2    2    PY
+wienie
+-2   1    3    PY
+win
+1   0    0    ENG
+wince
+1   2    1    ENG
+winding
+3   4    1    ENG
+winna
+-1   1    2    PY
+winne
+1   2    1    ENG
+winni
+1   2    1    ENG
+winnie
+0   2    2    PY
+winning
+3   4    1    ENG
+wodehouse
+-3   2    5    PY
+woke
+1   0    0    ENG
+woken
+-1   1    2    PY
+woman
+1   2    1    ENG
+womanize
+4   5    1    ENG
+womanlike
+5   6    1    ENG
+women
+1   2    1    ENG
+wong
+-1   0    0    PY
+wore
+1   0    0    ENG
+wotan
+-3   0    3    PY
+wu
+-1   0    0    PY
+wuhan
+-3   0    3    PY
+wv
+-1   0    0    PY
+xi
+1   0    0    ENG
+xian
+-1   0    0    PY
+xiangqi
+-5   0    5    PY
+xiangqianchongxiaofangyuan
+-16   4    20    PY
+xiangqianfei
+-10   0    10    PY
+xiangqianjin
+-10   0    10    PY
+xiangqianjinzhutibizhimeihua
+-24   1    25    PY
+xiangqiankan
+-10   0    10    PY
+xiangqianpaoyingzhuolengyanhechaoxiao
+-27   4    31    PY
+xiangqianqi
+-9   0    9    PY
+xiangqianyidong
+-11   1    12    PY
+xiangqianzoudianxinzhutibizhimeihua
+-27   3    30    PY
+xiangqicanju
+-8   1    9    PY
+xiangqicanjubaozouban
+-17   1    18    PY
+xiangqichuhanzhengfenghongmenyanpian
+-30   2    32    PY
+xiangqidashen
+-5   3    8    PY
+xiangqidashi
+-6   2    8    PY
+xiangqiduizhan
+-12   0    12    PY
+xiangqigaoshou
+-10   1    11    PY
+xiangqigaoshousucheng
+-11   4    15    PY
+xiangqijingdianmingpu
+-13   3    16    PY
+xiangqiliaochuai
+-10   2    12    PY
+xiangqinbaike
+-11   0    11    PY
+xiangqing
+-7   0    7    PY
+xiangqinji
+-8   0    8    PY
+xiaoping
+-4   1    5    PY
+ximian
+-2   1    3    PY
+xingu
+-1   1    2    PY
+xuzhou
+-4   0    4    PY
+xv
+1   0    0    ENG
+ya
+-1   0    0    PY
+yale
+-1   0    0    PY
+yalu
+-1   0    0    PY
+yamaha
+-4   0    4    PY
+yance
+1   2    1    ENG
+yang
+-1   0    0    PY
+yanhuiyuding
+-6   2    8    PY
+yanhunzhou
+-8   0    8    PY
+yanhuo
+-4   0    4    PY
+yanhuofenghuang
+-13   0    13    PY
+yanhuojiaoyou
+-9   1    10    PY
+yanhuojuhuijiaoyou
+-14   1    15    PY
+yanhuolanshanzhuomianzhutibizhimeihua
+-27   4    31    PY
+yanhuomoshengrenyuehuijuhui
+-17   4    21    PY
+yanhuosuiyuedianxinzhutibizhimeihua
+-25   4    29    PY
+yanhuoweinizhanfangzhuomianzhutibizhimeihua
+-37   2    39    PY
+yanjiangjiqiao
+-12   0    12    PY
+yanjiangshendian
+-4   5    9    PY
+yanjianweishi
+-9   1    10    PY
+yanjiaodibianhuapeiwoxingfu
+-21   2    23    PY
+yanjiaodushiluntan
+-8   4    12    PY
+yanjiaozaixian
+-12   0    12    PY
+yanjingchuanshao
+-12   1    13    PY
+yanjinggou
+-8   0    8    PY
+yanjinghonglvdeng
+-13   1    14    PY
+yanjingkong
+-9   0    9    PY
+yanjingpifa
+-9   0    9    PY
+yanjingshezhihuiguan
+-16   1    17    PY
+yanjingwang
+-9   0    9    PY
+yanjipai
+-6   0    6    PY
+yanjishoukuai
+-7   2    9    PY
+yanjiuchashangcheng
+-7   5    12    PY
+yaqui
+-3   0    3    PY
+ye
+-1   0    0    PY
+yehudi
+-4   0    4    PY
+yelena
+-2   1    3    PY
+yemen
+-1   1    2    PY
+yemeni
+0   2    2    PY
+yemenite
+2   4    2    ENG
+yen
+-1   0    0    PY
+yenisei
+-1   2    3    PY
+yenning
+1   3    2    ENG
+yeti
+-1   0    0    PY
+yin
+-1   0    0    PY
+yong
+-1   0    0    PY
+you
+1   0    0    ENG
+yuan
+-1   0    0    PY
+yuba
+-1   0    0    PY
+yucatan
+-1   2    3    PY
+yule
+-1   0    0    PY
+yuletide
+-2   2    4    PY
+yuma
+-1   0    0    PY
+yunnan
+-2   1    3    PY
+zacharie
+2   4    2    ENG
+zacherie
+2   4    2    ENG
+zaire
+-1   1    2    PY
+zairian
+-1   2    3    PY
+zan
+-1   0    0    PY
+zane
+-1   0    0    PY
+zaneta
+-4   0    4    PY
+zapata
+-4   0    4    PY
+zebu
+-1   0    0    PY
+zebulen
+-3   1    4    PY
+zedong
+-4   0    4    PY
+zeke
+-1   0    0    PY
+zen
+-1   0    0    PY
+zena
+-1   0    0    PY
+zenger
+0   2    2    PY
+zeta
+-1   0    0    PY
+zhangliangdongtaibizhi
+-10   5    15    PY
+zhanglilai
+-2   3    5    PY
+zhanglingxiaoyuan
+-5   5    10    PY
+zhangmenchuanqi
+-5   4    9    PY
+zhangnalaweimeikeaidongtaibizhi
+-27   1    28    PY
+zhangqiufuyou
+-9   1    10    PY
+zhangruiminshangdaozhenjing
+-9   8    17    PY
+zhangruoyunbizhizhutizhuomianmeihua
+-29   2    31    PY
+zhangsanguo
+-3   3    6    PY
+zhangshang
+-2   3    5    PY
+zhangshangalashan
+-1   7    8    PY
+zhangshanganfang
+-6   4    10    PY
+zhangshanganhua
+-7   3    10    PY
+zhangshanganhui
+-7   3    10    PY
+zhangshangankang
+-8   3    11    PY
+zhangshangaoyuan
+-8   3    11    PY
+zhangshangbaike
+-7   3    10    PY
+zhangshangbaili
+-5   4    9    PY
+zhangshangbaixing
+-7   4    11    PY
+zhangshangbaojianpinhangyepingtai
+-17   7    24    PY
+zhangshangbaojianpinmenhuwang
+-17   5    22    PY
+zhangshangbaojianyangsheng
+-16   4    20    PY
+zhangshangbaomu
+-7   3    10    PY
+zhangshangbaoying
+-7   4    11    PY
+zhangshangbaozhuangcailiaowang
+-18   5    23    PY
+zhangshangbaqiao
+-8   3    11    PY
+zhangshangbasuo
+-7   3    10    PY
+zhangshangbeihai
+-8   3    11    PY
+zhangshangbeilun
+-8   3    11    PY
+zhangshangbeiyu
+-7   3    10    PY
+zhangshangbenxi
+-7   3    10    PY
+zhangshangbianli
+-6   4    10    PY
+zhengzhou
+-5   1    6    PY
+zibo
+-1   0    0    PY
+zita
+-1   0    0    PY
+zulema
+-2   1    3    PY
+zulu
+-1   0    0    PY
+zuni
+-1   0    0    PY
+zuzana
+-4   0    4    PY

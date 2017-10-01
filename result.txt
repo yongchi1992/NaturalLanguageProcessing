@@ -2417,7 +2417,7 @@ airily
 airiness
     英文
 airing
-    拼音
+    英文
 airless
     英文
 airlessness
@@ -4455,7 +4455,7 @@ angie
 angil
     英文
 angina
-    拼音
+    英文
 angiography
     英文
 angioplasty
@@ -4693,7 +4693,7 @@ annice
 annie
     拼音
 annihilate
-    拼音
+    英文
 annihilation
     英文
 annihilator
@@ -8833,7 +8833,7 @@ bakery
 bakeshop
     英文
 baking
-    拼音
+    英文
 baklava
     英文
 baksheesh
@@ -9133,7 +9133,7 @@ banker
 bankers
     英文
 banking
-    拼音
+    英文
 banknote
     英文
 bankroll
@@ -9179,7 +9179,7 @@ banter
 banterer
     英文
 bantering
-    拼音
+    英文
 banting
     拼音
 bantu
@@ -9369,9 +9369,9 @@ barhopped
 barhopping
     英文
 bari
-    拼音
+    英文
 baring
-    拼音
+    英文
 baritone
     英文
 barium
@@ -11563,7 +11563,7 @@ biker
 bikers
     英文
 bikini
-    拼音
+    英文
 biko
     英文
 bil
@@ -11697,7 +11697,7 @@ bingham
 binghamton
     英文
 binging
-    拼音
+    英文
 bingo
     英文
 bini
@@ -13421,7 +13421,7 @@ borgia
 boric
     英文
 boring
-    拼音
+    英文
 boris
     英文
 bork
@@ -13671,7 +13671,7 @@ bowes
 bowie
     拼音
 bowing
-    拼音
+    英文
 bowl
     英文
 bowlder
@@ -15523,7 +15523,7 @@ burial
 buried
     英文
 burier
-    拼音
+    英文
 burk
     英文
 burke
@@ -15659,7 +15659,7 @@ bushido
 bushiness
     英文
 bushing
-    拼音
+    英文
 bushings
     英文
 bushland
@@ -16027,7 +16027,7 @@ cadence
 cadenced
     英文
 cadencing
-    拼音
+    英文
 cadent
     英文
 cadenza
@@ -16079,7 +16079,7 @@ cagers
 cagey
     英文
 cagier
-    拼音
+    英文
 cagiest
     英文
 cagily
@@ -16143,7 +16143,7 @@ calaboose
 calais
     英文
 calamari
-    拼音
+    英文
 calamine
     拼音
 calamitous
@@ -16769,7 +16769,7 @@ canterbury
 cantered
     英文
 cantering
-    拼音
+    英文
 canters
     英文
 canticle
@@ -17233,7 +17233,7 @@ carhopped
 carhopping
     英文
 cari
-    拼音
+    英文
 caria
     英文
 carib
@@ -17241,9 +17241,9 @@ carib
 caribbean
     英文
 caribou
-    拼音
+    英文
 caricature
-    拼音
+    英文
 caricaturisation
     英文
 caricaturist
@@ -17267,11 +17267,11 @@ carilyn
 carin
     拼音
 carina
-    拼音
+    英文
 carine
-    拼音
+    英文
 caring
-    拼音
+    英文
 cariotta
     英文
 carious
@@ -17279,7 +17279,7 @@ carious
 carissa
     英文
 carita
-    拼音
+    英文
 caritta
     英文
 carjack
@@ -17683,7 +17683,7 @@ casi
 casie
     拼音
 casing
-    拼音
+    英文
 casings
     英文
 casino
@@ -17851,7 +17851,7 @@ catapult
 cataract
     英文
 catarina
-    拼音
+    英文
 catarrh
     英文
 catarrhs
@@ -17933,9 +17933,9 @@ caterer
 caterers
     英文
 caterina
-    拼音
+    英文
 catering
-    拼音
+    英文
 caterpillar
     英文
 caters
@@ -18475,7 +18475,7 @@ centerer
 centerfold
     英文
 centering
-    拼音
+    英文
 centerline
     英文
 centerpiece
@@ -18593,7 +18593,7 @@ ceres
 cerf
     英文
 cerise
-    拼音
+    英文
 cerium
     英文
 cermet
@@ -18841,7 +18841,7 @@ chancey
 chanciness
     英文
 chancing
-    拼音
+    英文
 chancre
     英文
 chancy
@@ -18899,7 +18899,7 @@ changer
 changers
     英文
 changing
-    拼音
+    英文
 changsha
     拼音
 channa
@@ -19065,7 +19065,7 @@ charissa
 charisse
     英文
 charita
-    拼音
+    英文
 charitable
     英文
 charitableness
@@ -19191,7 +19191,7 @@ chaser
 chasers
     英文
 chasing
-    拼音
+    英文
 chasity
     英文
 chasm
@@ -19477,13 +19477,13 @@ chere
 cherey
     英文
 cheri
-    拼音
+    英文
 cherianne
     拼音
 cherice
-    拼音
+    英文
 cherida
-    拼音
+    英文
 cherie
     拼音
 cherilyn
@@ -19493,7 +19493,7 @@ cherilynn
 cherin
     拼音
 cherise
-    拼音
+    英文
 cherish
     英文
 cherisher
@@ -19781,7 +19781,7 @@ chine
 chinese
     拼音
 ching
-    拼音
+    英文
 chink
     英文
 chinless
@@ -20323,7 +20323,7 @@ chunkiness
 chunky
     英文
 chuntering
-    拼音
+    英文
 church
     英文
 churchgoer
@@ -25633,7 +25633,7 @@ cotyledon
 couch
     英文
 couching
-    拼音
+    英文
 cougar
     英文
 cough
@@ -25837,7 +25837,7 @@ courbet
 courgette
     英文
 courier
-    拼音
+    英文
 course
     英文
 courser
@@ -25897,7 +25897,7 @@ cousteau
 couture
     拼音
 couturier
-    拼音
+    英文
 covalent
     英文
 covariance
@@ -27387,7 +27387,7 @@ curious
 curiousness
     英文
 curitiba
-    拼音
+    英文
 curium
     英文
 curl
@@ -27925,7 +27925,7 @@ daintiness
 dainty
     英文
 daiquiri
-    拼音
+    英文
 dairy
     英文
 dairying
@@ -28021,7 +28021,7 @@ damager
 damagers
     英文
 damaging
-    拼音
+    英文
 damara
     英文
 damaris
@@ -28273,17 +28273,17 @@ darers
 daresay
     英文
 dari
-    拼音
+    英文
 daria
     英文
 darice
-    拼音
+    英文
 darill
     英文
 darin
     拼音
 daring
-    拼音
+    英文
 daringness
     英文
 dario
@@ -28405,9 +28405,9 @@ dasher
 dashers
     英文
 dashiki
-    拼音
+    英文
 dashing
-    拼音
+    英文
 dasi
     拼音
 dasie
@@ -28427,7 +28427,7 @@ data
 database
     拼音
 datafile
-    拼音
+    英文
 datagram
     英文
 datamation
@@ -28769,7 +28769,7 @@ debaser
 debases
     英文
 debasing
-    拼音
+    英文
 debatable
     英文
 debate
@@ -28861,7 +28861,7 @@ debugs
 debunked
     英文
 debunking
-    拼音
+    英文
 debunks
     英文
 debussy
@@ -29379,7 +29379,7 @@ defacers
 defaces
     英文
 defacing
-    拼音
+    英文
 defaecate
     英文
 defalcate
@@ -29515,11 +29515,11 @@ deficient
 deficit
     英文
 defier
-    拼音
+    英文
 defies
     英文
 defile
-    拼音
+    英文
 defiled
     英文
 defilement
@@ -29529,19 +29529,19 @@ defilers
 defiles
     英文
 defiling
-    拼音
+    英文
 definable
     英文
 definably
     英文
 define
-    拼音
+    英文
 defined
     英文
 definer
     拼音
 definite
-    拼音
+    英文
 definitely
     英文
 definiteness
@@ -29675,7 +29675,7 @@ defused
 defuses
     英文
 defusing
-    拼音
+    英文
 defy
     英文
 defying
@@ -29735,7 +29735,7 @@ dehumanized
 dehumanizes
     英文
 dehumanizing
-    拼音
+    英文
 dehumidifications
     英文
 dehumidified
@@ -29773,7 +29773,7 @@ deicers
 deices
     英文
 deicing
-    拼音
+    英文
 deictic
     英文
 deidre
@@ -30045,7 +30045,7 @@ deloused
 delouses
     英文
 delousing
-    拼音
+    英文
 delphi
     英文
 delphic
@@ -30165,7 +30165,7 @@ demilitarized
 demilitarizes
     英文
 demilitarizing
-    拼音
+    英文
 demimondaine
     英文
 demimonde
@@ -30195,7 +30195,7 @@ demobilized
 demobilizes
     英文
 demobilizing
-    拼音
+    英文
 democracy
     英文
 democrat
@@ -30247,7 +30247,7 @@ demonetized
 demonetizes
     英文
 demonetizing
-    拼音
+    英文
 demoniac
     英文
 demoniacal
@@ -30371,7 +30371,7 @@ denatured
 denatures
     英文
 denaturing
-    拼音
+    英文
 dendrite
     英文
 dene
@@ -30637,19 +30637,19 @@ deployment
 depolarizations
     英文
 depolarize
-    拼音
+    英文
 depolarized
     英文
 depolarizes
     英文
 depolarizing
-    拼音
+    英文
 depoliticized
     英文
 depoliticizes
     英文
 depoliticizing
-    拼音
+    英文
 deponent
     英文
 depopulated
@@ -30679,7 +30679,7 @@ deposed
 deposes
     英文
 deposing
-    拼音
+    英文
 deposit
     英文
 depositary
@@ -30793,7 +30793,7 @@ derangement
 deranges
     英文
 deranging
-    拼音
+    英文
 derby
     英文
 derbyshire
@@ -30815,11 +30815,11 @@ dereliction
 derick
     英文
 deride
-    拼音
+    英文
 derides
     英文
 deriding
-    拼音
+    英文
 derision
     英文
 derisive
@@ -30991,7 +30991,7 @@ desensitized
 desensitizes
     英文
 desensitizing
-    拼音
+    英文
 desert
     英文
 deserter
@@ -31073,9 +31073,9 @@ desirer
 desires
     英文
 desiri
-    拼音
+    英文
 desiring
-    拼音
+    英文
 desirous
     英文
 desirousness
@@ -31885,7 +31885,7 @@ dicier
 diciest
     英文
 dicing
-    拼音
+    英文
 dick
     英文
 dickens
@@ -32113,11 +32113,11 @@ digitalized
 digitalizes
     英文
 digitalizing
-    拼音
+    英文
 digitization
     英文
 digitize
-    拼音
+    英文
 digitizer
     英文
 digitizers
@@ -32529,7 +32529,7 @@ disabused
 disabuses
     英文
 disabusing
-    拼音
+    英文
 disadvantage
     拼音
 disadvantaged
@@ -32539,7 +32539,7 @@ disadvantageous
 disadvantages
     英文
 disadvantaging
-    拼音
+    英文
 disaffected
     英文
 disaffecting
@@ -33047,7 +33047,7 @@ disengagements
 disengages
     英文
 disengaging
-    拼音
+    英文
 disentangled
     英文
 disentanglements
@@ -33227,7 +33227,7 @@ disinheritances
 disinherited
     英文
 disinheriting
-    拼音
+    英文
 disinherits
     英文
 disintegrated
@@ -35931,7 +35931,7 @@ durex
 durham
     英文
 during
-    拼音
+    英文
 durkee
     英文
 durkheim
@@ -38407,7 +38407,7 @@ endure
 endures
     英文
 enduring
-    拼音
+    英文
 enduringness
     英文
 endways
@@ -38427,7 +38427,7 @@ energetically
 energetics
     英文
 energize
-    拼音
+    英文
 energized
     英文
 energizer
@@ -38445,7 +38445,7 @@ enfeeble
 enfeeblement
     英文
 enfilade
-    拼音
+    英文
 enfold
     英文
 enforce
@@ -38479,7 +38479,7 @@ engaged
 engagement
     英文
 engaging
-    拼音
+    英文
 engel
     英文
 engelbert
@@ -38487,9 +38487,9 @@ engelbert
 engender
     英文
 engine
-    拼音
+    英文
 engineer
-    拼音
+    英文
 engineering
     英文
 england
@@ -38587,7 +38587,7 @@ enjoyably
 enjoyment
     英文
 enkidu
-    拼音
+    英文
 enlarge
     英文
 enlargeable
@@ -38665,7 +38665,7 @@ enrage
 enrapture
     英文
 enrica
-    拼音
+    英文
 enrich
     英文
 enricher
@@ -38677,11 +38677,11 @@ enrichment
 enrico
     英文
 enrika
-    拼音
+    英文
 enrique
-    拼音
+    英文
 enriqueta
-    拼音
+    英文
 enrobed
     英文
 enroll
@@ -38797,7 +38797,7 @@ enticement
 enticers
     英文
 enticing
-    拼音
+    英文
 entire
     拼音
 entirely
@@ -39475,7 +39475,7 @@ erratum
 errick
     英文
 erring
-    拼音
+    英文
 errol
     英文
 erroll
@@ -41573,7 +41573,7 @@ facilitatory
 facility
     英文
 facing
-    拼音
+    英文
 facsimile
     英文
 facsimileing
@@ -41709,7 +41709,7 @@ fairgoer
 fairground
     英文
 fairing
-    拼音
+    英文
 fairish
     英文
 fairleigh
@@ -42015,13 +42015,13 @@ farfetchedness
 fargo
     英文
 farica
-    拼音
+    英文
 farina
-    拼音
+    英文
 farinaceous
     英文
 faring
-    拼音
+    英文
 farkas
     英文
 farlay
@@ -42717,7 +42717,7 @@ fencer
 fencers
     英文
 fencing
-    拼音
+    英文
 fend
     英文
 fender
@@ -43031,21 +43031,21 @@ fibrous
 fibrousness
     英文
 fibula
-    拼音
+    英文
 fibulae
     英文
 fibular
     英文
 fica
-    拼音
+    英文
 fices
     英文
 fiche
-    拼音
+    英文
 fichte
     英文
 fichu
-    拼音
+    英文
 fickle
     英文
 fickleness
@@ -43079,11 +43079,11 @@ fiddlestick
 fiddly
     英文
 fide
-    拼音
+    英文
 fidel
     英文
 fidela
-    拼音
+    英文
 fidelia
     英文
 fidelio
@@ -43133,7 +43133,7 @@ fiendish
 fiendishness
     英文
 fierce
-    拼音
+    英文
 fierceness
     英文
 fierily
@@ -43153,11 +43153,11 @@ fifer
 fifers
     英文
 fifi
-    拼音
+    英文
 fifine
-    拼音
+    英文
 fifo
-    拼音
+    英文
 fifteen
     英文
 fifteenths
@@ -43199,19 +43199,19 @@ figurative
 figurativeness
     英文
 figure
-    拼音
+    英文
 figurehead
     英文
 figurer
     英文
 figurine
-    拼音
+    英文
 figuring
-    拼音
+    英文
 fiji
-    拼音
+    英文
 fijian
-    拼音
+    英文
 filament
     英文
 filamentary
@@ -43227,11 +43227,11 @@ filberto
 filch
     英文
 file
-    拼音
+    英文
 filed
     英文
 filename
-    拼音
+    英文
 filer
     英文
 files
@@ -43249,13 +43249,13 @@ filibusterer
 filibusterers
     英文
 filide
-    拼音
+    英文
 filigree
     英文
 filigreeing
     英文
 filing
-    拼音
+    英文
 filings
     英文
 filip
@@ -43337,7 +43337,7 @@ filtration
 fin
     拼音
 fina
-    拼音
+    英文
 finagle
     英文
 finagler
@@ -43347,7 +43347,7 @@ finaglers
 final
     英文
 finale
-    拼音
+    英文
 finalist
     英文
 finality
@@ -43355,7 +43355,7 @@ finality
 finalization
     英文
 finalize
-    拼音
+    英文
 finally
     英文
 finance
@@ -43369,7 +43369,7 @@ financial
 financier
     拼音
 financing
-    拼音
+    英文
 finch
     英文
 find
@@ -43389,7 +43389,7 @@ findlay
 findley
     英文
 fine
-    拼音
+    英文
 finely
     英文
 fineness
@@ -43403,17 +43403,17 @@ finesse
 finest
     英文
 finger
-    拼音
+    英文
 fingerboard
     英文
 fingerer
-    拼音
+    英文
 fingering
-    拼音
+    英文
 fingerless
     英文
 fingerling
-    拼音
+    英文
 fingernail
     英文
 fingerprint
@@ -43429,7 +43429,7 @@ finickiness
 finicky
     英文
 fining
-    拼音
+    英文
 finis
     英文
 finish
@@ -43443,7 +43443,7 @@ finishers
 finishes
     英文
 finite
-    拼音
+    英文
 finitely
     英文
 finiteness
@@ -43489,7 +43489,7 @@ fiori
 fir
     英文
 fire
-    拼音
+    英文
 fire-engine
     英文
 firearm
@@ -43527,13 +43527,13 @@ firefox
 fireguard
     英文
 firehouse
-    拼音
+    英文
 firelight
     英文
 fireman
-    拼音
+    英文
 firemen
-    拼音
+    英文
 fireplace
     英文
 fireplug
@@ -43549,7 +43549,7 @@ firers
 firesafe
     英文
 fireside
-    拼音
+    英文
 firestone
     英文
 firestorm
@@ -43567,7 +43567,7 @@ firewood
 firework
     英文
 firing
-    拼音
+    英文
 firings
     英文
 firkin
@@ -43629,7 +43629,7 @@ fishily
 fishiness
     英文
 fishing
-    拼音
+    英文
 fishkill
     英文
 fishmeal
@@ -43741,7 +43741,7 @@ fixer
 fixes
     英文
 fixing
-    拼音
+    英文
 fixity
     英文
 fixture
@@ -44985,7 +44985,7 @@ forefather
 forefeet
     英文
 forefinger
-    拼音
+    英文
 forefoot
     英文
 forefront
@@ -45485,7 +45485,7 @@ four
 fourfold
     英文
 fourier
-    拼音
+    英文
 fourpence
     英文
 fourpenny
@@ -46543,13 +46543,13 @@ funfair
 fungal
     英文
 fungi
-    拼音
+    英文
 fungible
     英文
 fungicidal
     英文
 fungicide
-    拼音
+    英文
 fungoid
     英文
 fungous
@@ -46865,7 +46865,7 @@ gagging
 gaggle
     英文
 gaging
-    拼音
+    英文
 gagwriter
     英文
 gaiety
@@ -47387,7 +47387,7 @@ gash
 gasification
     英文
 gasifier
-    拼音
+    英文
 gasifiers
     英文
 gasify
@@ -48111,7 +48111,7 @@ gerhardine
 gerhardt
     英文
 geri
-    拼音
+    英文
 gerianna
     拼音
 gerianne
@@ -48323,7 +48323,7 @@ ghq
 ghz
     英文
 gi
-    拼音
+    英文
 giacinta
     英文
 giacobo
@@ -48397,7 +48397,7 @@ giddings
 giddy
     英文
 gide
-    拼音
+    英文
 gideon
     英文
 gielgud
@@ -48455,7 +48455,7 @@ giggling
 giggly
     英文
 gigi
-    拼音
+    英文
 gigo
     英文
 gigolo
@@ -48463,7 +48463,7 @@ gigolo
 gil
     英文
 gila
-    拼音
+    英文
 gilbert
     英文
 gilberta
@@ -48555,13 +48555,13 @@ gimpy
 gin
     拼音
 gina
-    拼音
+    英文
 ginelle
     英文
 ginevra
     英文
 ginger
-    拼音
+    英文
 gingerbread
     英文
 gingerliness
@@ -48667,11 +48667,11 @@ girth
 girths
     英文
 gisela
-    拼音
+    英文
 giselbert
     英文
 gisele
-    拼音
+    英文
 gisella
     英文
 giselle
@@ -48715,9 +48715,9 @@ givers
 giving
     英文
 giza
-    拼音
+    英文
 gizela
-    拼音
+    英文
 gizmo
     英文
 gizzard
@@ -51077,7 +51077,7 @@ gunfighter
 gunfighters
     英文
 gunfire
-    拼音
+    英文
 gunflint
     英文
 gunfought
@@ -52031,7 +52031,7 @@ hanger
 hangers
     英文
 hanging
-    拼音
+    英文
 hangings
     英文
 hangman
@@ -52061,7 +52061,7 @@ hanker
 hankerer
     英文
 hankering
-    拼音
+    英文
 hankerings
     英文
 hankers
@@ -52471,7 +52471,7 @@ hasher
 hashim
     英文
 hashing
-    拼音
+    英文
 hashish
     英文
 hasidim
@@ -52727,7 +52727,7 @@ hazily
 haziness
     英文
 hazing
-    拼音
+    英文
 hazings
     英文
 hazlett
@@ -53513,7 +53513,7 @@ henning
 henpeck
     英文
 henri
-    拼音
+    英文
 henrie
     拼音
 henrieta
@@ -53673,7 +53673,7 @@ heriberto
 heritable
     英文
 heritage
-    拼音
+    英文
 heritor
     英文
 herkimer
@@ -53947,7 +53947,7 @@ hgwy
 hhs
     英文
 hi
-    拼音
+    英文
 hialeah
     英文
 hiatus
@@ -53955,7 +53955,7 @@ hiatus
 hiawatha
     英文
 hibachi
-    拼音
+    英文
 hibernate
     英文
 hibernation
@@ -53987,7 +53987,7 @@ hid
 hidden
     英文
 hide
-    拼音
+    英文
 hideaway
     英文
 hidebound
@@ -54003,7 +54003,7 @@ hider
 hiders
     英文
 hiding
-    拼音
+    英文
 hidings
     英文
 hie
@@ -54033,7 +54033,7 @@ hieroglyphs
 hieronymus
     英文
 hifalutin
-    拼音
+    英文
 higashiosaka
     英文
 higgins
@@ -54099,7 +54099,7 @@ hijackers
 hijackings
     英文
 hike
-    拼音
+    英文
 hiker
     英文
 hikers
@@ -54187,15 +54187,15 @@ hilton
 him
     英文
 himalaya
-    拼音
+    英文
 himalayan
-    拼音
+    英文
 himmler
     英文
 himself
     英文
 hinayana
-    拼音
+    英文
 hind
     英文
 hinda
@@ -54235,7 +54235,7 @@ hines
 hinge
     拼音
 hinger
-    拼音
+    英文
 hinkle
     英文
 hinsdale
@@ -54289,15 +54289,15 @@ hiragana
 hiram
     英文
 hire
-    拼音
+    英文
 hireling
-    拼音
+    英文
 hirer
     英文
 hirey
     英文
 hiring
-    拼音
+    英文
 hirohito
     英文
 hiroshi
@@ -54373,7 +54373,7 @@ histrionics
 hit
     英文
 hitachi
-    拼音
+    英文
 hitch
     英文
 hitchcock
@@ -55405,7 +55405,7 @@ hour
 hourglass
     英文
 houri
-    拼音
+    英文
 hourly
     英文
 house
@@ -55495,7 +55495,7 @@ houseworker
 houseworkers
     英文
 housing
-    拼音
+    英文
 housman
     英文
 houston
@@ -55741,7 +55741,7 @@ humanizers
 humanizes
     英文
 humanizing
-    拼音
+    英文
 humankind
     英文
 humanness
@@ -55779,7 +55779,7 @@ hume
 humeral
     英文
 humeri
-    拼音
+    英文
 humerus
     英文
 humfrey
@@ -55793,7 +55793,7 @@ humid
 humidification
     英文
 humidifier
-    拼音
+    英文
 humidifiers
     英文
 humidify
@@ -62471,7 +62471,7 @@ jinni
 jinny
     英文
 jinrikisha
-    拼音
+    英文
 jinx
     英文
 jitney
@@ -63387,7 +63387,7 @@ kabob
 kaboom
     英文
 kabuki
-    拼音
+    英文
 kabul
     英文
 kacey
@@ -63453,7 +63453,7 @@ kakalina
 kala
     拼音
 kalahari
-    拼音
+    英文
 kalamazoo
     英文
 kalashnikov
@@ -63609,7 +63609,7 @@ karena
 karenina
     拼音
 kari
-    拼音
+    英文
 karia
     英文
 karie
@@ -63623,17 +63623,17 @@ karim
 karin
     拼音
 karina
-    拼音
+    英文
 karine
-    拼音
+    英文
 kariotta
     英文
 karisa
-    拼音
+    英文
 karissa
     英文
 karita
-    拼音
+    英文
 karl
     英文
 karla
@@ -63749,9 +63749,9 @@ katee
 katelyn
     英文
 katerina
-    拼音
+    英文
 katerine
-    拼音
+    英文
 katey
     英文
 kath
@@ -63849,7 +63849,7 @@ kaunda
 kawabata
     拼音
 kawasaki
-    拼音
+    英文
 kay
     英文
 kayak
@@ -64159,7 +64159,7 @@ kerchief
 kerensky
     英文
 keri
-    拼音
+    英文
 keriann
     英文
 kerianne
@@ -64341,7 +64341,7 @@ khyber
 khz
     英文
 ki
-    拼音
+    英文
 kia
     英文
 kiah
@@ -64431,7 +64431,7 @@ kiele
 kienan
     拼音
 kier
-    拼音
+    英文
 kierkegaard
     英文
 kiersten
@@ -64441,19 +64441,19 @@ kieth
 kiev
     英文
 kigali
-    拼音
+    英文
 kikelia
     英文
 kikuyu
-    拼音
+    英文
 kilauea
     英文
 kile
-    拼音
+    英文
 kiley
     英文
 kilian
-    拼音
+    英文
 kilimanjaro
     英文
 kill
@@ -64579,7 +64579,7 @@ kindness
 kindred
     英文
 kine
-    拼音
+    英文
 kinematic
     英文
 kinematics
@@ -64601,7 +64601,7 @@ kinetics
 kinfolk
     英文
 king
-    拼音
+    英文
 kingbird
     英文
 kingdom
@@ -64615,7 +64615,7 @@ kingliness
 kingly
     英文
 kingpin
-    拼音
+    英文
 kingsbury
     英文
 kingship
@@ -64711,11 +64711,11 @@ kirghiz
 kirghizia
     英文
 kiri
-    拼音
+    英文
 kiribati
-    拼音
+    英文
 kirinyaga
-    拼音
+    英文
 kirk
     英文
 kirkland
@@ -64739,7 +64739,7 @@ kirstin
 kirstyn
     英文
 kisangani
-    拼音
+    英文
 kishinev
     英文
 kismet
@@ -64773,7 +64773,7 @@ kitchenette
 kitchenware
     英文
 kite
-    拼音
+    英文
 kited
     英文
 kiter
@@ -64783,7 +64783,7 @@ kith
 kiths
     英文
 kiting
-    拼音
+    英文
 kitsch
     英文
 kitschy
@@ -64809,7 +64809,7 @@ kitty
 kiwanis
     英文
 kiwi
-    拼音
+    英文
 kiwifruit
     英文
 kizzee
@@ -65465,7 +65465,7 @@ laborer
 laborers
     英文
 laboring
-    拼音
+    英文
 laborings
     英文
 laborious
@@ -65505,7 +65505,7 @@ lacerations
 laces
     英文
 lacewing
-    拼音
+    英文
 lacey
     英文
 lachesis
@@ -65517,7 +65517,7 @@ lachrymose
 lacie
     拼音
 lacing
-    拼音
+    英文
 lack
     英文
 lackadaisic
@@ -65673,7 +65673,7 @@ lakeside
 lakewood
     英文
 lakisha
-    拼音
+    英文
 lakshmi
     英文
 lallygag
@@ -65977,7 +65977,7 @@ languish
 languisher
     英文
 languishing
-    拼音
+    英文
 languor
     英文
 languorous
@@ -66007,7 +66007,7 @@ lanny
 lanolin
     英文
 lansing
-    拼音
+    英文
 lantern
     英文
 lanthanide
@@ -66111,15 +66111,15 @@ largish
 largo
     英文
 lari
-    拼音
+    英文
 lariat
     英文
 larina
-    拼音
+    英文
 larine
-    拼音
+    英文
 larisa
-    拼音
+    英文
 larissa
     英文
 lark
@@ -66181,7 +66181,7 @@ lashed
 lasher
     英文
 lashing
-    拼音
+    英文
 lashings
     英文
 lass
@@ -66561,7 +66561,7 @@ layer
 layered
     英文
 layering
-    拼音
+    英文
 layerings
     英文
 layers
@@ -66995,15 +66995,15 @@ legit
 legitimacy
     英文
 legitimate
-    拼音
+    英文
 legitimation
     英文
 legitimatize
-    拼音
+    英文
 legitimization
     英文
 legitimize
-    拼音
+    英文
 legless
     英文
 legman
@@ -67659,7 +67659,7 @@ licenser
 licenses
     英文
 licensing
-    拼音
+    英文
 licensor
     英文
 licentiate
@@ -67885,9 +67885,9 @@ likes
 likest
     英文
 likewise
-    拼音
+    英文
 liking
-    拼音
+    英文
 lil
     英文
 lila
@@ -68115,7 +68115,7 @@ lingerers
 lingerie
     拼音
 lingering
-    拼音
+    英文
 lingers
     英文
 lingo
@@ -68155,7 +68155,7 @@ linked
 linker
     英文
 linking
-    拼音
+    英文
 linkup
     英文
 linn
@@ -68251,7 +68251,7 @@ liq
 liquefaction
     英文
 liquefier
-    拼音
+    英文
 liquefiers
     英文
 liquefy
@@ -68281,7 +68281,7 @@ liquidness
 liquor
     英文
 liquorice
-    拼音
+    英文
 liquorish
     英文
 lira
@@ -69677,7 +69677,7 @@ lugubrious
 lugubriousness
     英文
 luigi
-    拼音
+    英文
 luis
     英文
 luisa
@@ -69803,7 +69803,7 @@ lungfish
 lungful
     英文
 lunging
-    拼音
+    英文
 lunkhead
     英文
 lupe
@@ -70369,13 +70369,13 @@ maggoty
 maggy
     英文
 magi
-    拼音
+    英文
 magic
     英文
 magical
     英文
 magician
-    拼音
+    英文
 magicked
     英文
 magicking
@@ -70503,7 +70503,7 @@ maharani
 maharashtra
     英文
 maharishi
-    拼音
+    英文
 mahatma
     英文
 mahavira
@@ -70517,7 +70517,7 @@ mahdi
 mahfouz
     英文
 mahican
-    拼音
+    英文
 mahjong
     英文
 mahler
@@ -70699,7 +70699,7 @@ make
 make-up
     英文
 makefile
-    拼音
+    英文
 makeover
     英文
 maker
@@ -70709,7 +70709,7 @@ makeshift
 makeup
     英文
 making
-    拼音
+    英文
 mal
     英文
 mala
@@ -70763,7 +70763,7 @@ malarkey
 malathion
     英文
 malawi
-    拼音
+    英文
 malawian
     拼音
 malay
@@ -70807,7 +70807,7 @@ malefactor
 malefic
     英文
 maleficence
-    拼音
+    英文
 maleficent
     英文
 malena
@@ -71375,7 +71375,7 @@ maojiaomoniqishengjiban
 maojiaomoniqitebieban
     拼音
 maori
-    拼音
+    英文
 map
     英文
 maple
@@ -71583,7 +71583,7 @@ marguerite
 margy
     英文
 mari
-    拼音
+    英文
 maria
     英文
 mariachi
@@ -71609,9 +71609,9 @@ maribelle
 maribeth
     英文
 marice
-    拼音
+    英文
 maricela
-    拼音
+    英文
 maridel
     英文
 marie
@@ -71639,13 +71639,13 @@ marijn
 marijo
     英文
 marijuana
-    拼音
+    英文
 marika
-    拼音
+    英文
 marilee
     英文
 marilin
-    拼音
+    英文
 marillin
     英文
 marilyn
@@ -71655,17 +71655,17 @@ marimba
 marin
     拼音
 marina
-    拼音
+    英文
 marinade
-    拼音
+    英文
 marinara
     英文
 marinate
-    拼音
+    英文
 marination
     英文
 marine
-    拼音
+    英文
 mariner
     拼音
 mariners
@@ -71683,7 +71683,7 @@ marionette
 mariquilla
     英文
 marisa
-    拼音
+    英文
 mariska
     英文
 marisol
@@ -71691,13 +71691,13 @@ marisol
 marissa
     英文
 marita
-    拼音
+    英文
 maritain
     英文
 marital
     英文
 maritime
-    拼音
+    英文
 maritsa
     英文
 maritza
@@ -71707,7 +71707,7 @@ mariupol
 marius
     英文
 mariya
-    拼音
+    英文
 marj
     英文
 marja
@@ -73373,7 +73373,7 @@ memoriam
 memorization
     英文
 memorize
-    拼音
+    英文
 memorized
     英文
 memorizer
@@ -73393,7 +73393,7 @@ men
 menace
     拼音
 menacing
-    拼音
+    英文
 menage
     拼音
 menagerie
@@ -73633,7 +73633,7 @@ mergers
 meridel
     英文
 meridian
-    拼音
+    英文
 meridional
     英文
 meridith
@@ -74565,7 +74565,7 @@ militaristic
 militarization
     英文
 militarize
-    拼音
+    英文
 military
     英文
 militate
@@ -74765,7 +74765,7 @@ mincer
 mincers
     英文
 mincing
-    拼音
+    英文
 mind
     英文
 minda
@@ -74929,7 +74929,7 @@ minne
 minneapolis
     英文
 minnesinger
-    拼音
+    英文
 minnesota
     英文
 minnesotan
@@ -75775,7 +75775,7 @@ modifications
 modified
     英文
 modifier
-    拼音
+    英文
 modifiers
     英文
 modify
@@ -75795,7 +75795,7 @@ modularity
 modularization
     英文
 modularize
-    拼音
+    英文
 modulate
     拼音
 modulation
@@ -75843,7 +75843,7 @@ mohawk
 mohegan
     拼音
 mohican
-    拼音
+    英文
 moho
     英文
 mohorovicic
@@ -76575,7 +76575,7 @@ morison
 morissa
     英文
 morita
-    拼音
+    英文
 moritz
     英文
 morlee
@@ -76955,7 +76955,7 @@ mousetrapping
 mousiness
     英文
 mousing
-    拼音
+    英文
 mousse
     英文
 moussorgsky
@@ -77015,7 +77015,7 @@ mowers
 mowgli
     英文
 mowing
-    拼音
+    英文
 moxie
     拼音
 moyer
@@ -77073,7 +77073,7 @@ mtv
 mu
     拼音
 muawiya
-    拼音
+    英文
 mubarak
     英文
 much
@@ -77161,7 +77161,7 @@ muffler
 mufflers
     英文
 mufi
-    拼音
+    英文
 mufinella
     英文
 mufti
@@ -77433,7 +77433,7 @@ municipal
 municipality
     英文
 munificence
-    拼音
+    英文
 munificent
     英文
 munition
@@ -77601,7 +77601,7 @@ musicologist
 musicology
     英文
 musing
-    拼音
+    英文
 musings
     英文
 musk
@@ -77935,7 +77935,7 @@ nae
 nag
     英文
 nagasaki
-    拼音
+    英文
 nagged
     英文
 nagger
@@ -78051,7 +78051,7 @@ nanine
 nanjing
     拼音
 nanking
-    拼音
+    英文
 nannette
     英文
 nanni
@@ -78139,7 +78139,7 @@ narcotization
 narcotize
     英文
 nari
-    拼音
+    英文
 nariko
     英文
 nark
@@ -78823,7 +78823,7 @@ nerf
 nerissa
     英文
 nerita
-    拼音
+    英文
 nero
     英文
 neron
@@ -79391,7 +79391,7 @@ nigeria
 nigerian
     拼音
 nigerien
-    拼音
+    英文
 niggard
     英文
 niggardliness
@@ -79471,13 +79471,13 @@ nihilistic
 nijinsky
     英文
 nikaniki
-    拼音
+    英文
 nike
     拼音
 niki
-    拼音
+    英文
 nikita
-    拼音
+    英文
 nikki
     英文
 nikkie
@@ -81105,7 +81105,7 @@ nuncio
 nunez
     英文
 nunki
-    拼音
+    英文
 nunnery
     英文
 nuptial
@@ -84337,7 +84337,7 @@ pacifically
 pacification
     英文
 pacifier
-    拼音
+    英文
 pacifiers
     英文
 pacifism
@@ -84461,7 +84461,7 @@ pager
 pagers
     英文
 paginate
-    拼音
+    英文
 paginations
     英文
 paglia
@@ -85241,7 +85241,7 @@ parietal
 parimutuel
     英文
 paring
-    拼音
+    英文
 parings
     英文
 paris
@@ -85251,7 +85251,7 @@ parish
 parishioner
     英文
 parisian
-    拼音
+    英文
 parity
     英文
 park
@@ -88109,7 +88109,7 @@ piecemeal
 piecer
     英文
 piecewise
-    拼音
+    英文
 piecework
     英文
 pieceworker
@@ -88129,7 +88129,7 @@ piercer
 piercers
     英文
 piercing
-    拼音
+    英文
 piercings
     英文
 pierette
@@ -89447,7 +89447,7 @@ polarity
 polarization
     英文
 polarize
-    拼音
+    英文
 polarized
     英文
 polarizers
@@ -89455,7 +89455,7 @@ polarizers
 polarizes
     英文
 polarizing
-    拼音
+    英文
 polarogram
     英文
 polarograph
@@ -89895,7 +89895,7 @@ popularity
 popularization
     英文
 popularize
-    拼音
+    英文
 popularized
     英文
 popularizer
@@ -89903,7 +89903,7 @@ popularizer
 popularizes
     英文
 popularizing
-    拼音
+    英文
 populate
     拼音
 populated
@@ -89939,7 +89939,7 @@ porfirio
 porgy
     英文
 poring
-    拼音
+    英文
 pork
     英文
 porker
@@ -90087,7 +90087,7 @@ poseur
 posh
     英文
 posing
-    拼音
+    英文
 posit
     英文
 positifs
@@ -92949,7 +92949,7 @@ puebla
 pueblo
     英文
 puerile
-    拼音
+    英文
 puerility
     英文
 puerperal
@@ -93247,9 +93247,9 @@ purify
 purim
     英文
 purina
-    拼音
+    英文
 purine
-    拼音
+    英文
 purism
     英文
 purist
@@ -93257,7 +93257,7 @@ purist
 puristic
     英文
 puritan
-    拼音
+    英文
 puritanic
     英文
 puritanical
@@ -93715,7 +93715,7 @@ qualifications
 qualified
     英文
 qualifier
-    拼音
+    英文
 qualify
     英文
 qualitative
@@ -93741,7 +93741,7 @@ quantifications
 quantified
     英文
 quantifier
-    拼音
+    英文
 quantifiers
     英文
 quantify
@@ -93895,7 +93895,7 @@ quent
 quentin
     拼音
 querida
-    拼音
+    英文
 quern
     英文
 querulous
@@ -94087,7 +94087,7 @@ quires
 quirinal
     英文
 quiring
-    拼音
+    英文
 quirk
     英文
 quirkiness
@@ -94587,7 +94587,7 @@ raisers
 raisin
     拼音
 raising
-    拼音
+    英文
 raj
     英文
 rajah
@@ -94781,7 +94781,7 @@ ranges
 ranginess
     英文
 ranging
-    拼音
+    英文
 rangoon
     英文
 rangy
@@ -94807,9 +94807,9 @@ rankers
 rankin
     拼音
 rankine
-    拼音
+    英文
 ranking
-    拼音
+    英文
 rankings
     英文
 rankle
@@ -95713,7 +95713,7 @@ rebuilt
 rebuke
     拼音
 rebuking
-    拼音
+    英文
 reburials
     英文
 reburied
@@ -96419,7 +96419,7 @@ redefined
 redefines
     英文
 redefining
-    拼音
+    英文
 redefinitions
     英文
 redelivered
@@ -96725,7 +96725,7 @@ reenlists
 reentered
     英文
 reentering
-    拼音
+    英文
 reenters
     英文
 reentrant
@@ -96835,13 +96835,13 @@ reffed
 reffing
     英文
 refile
-    拼音
+    英文
 refiled
     英文
 refiles
     英文
 refiling
-    拼音
+    英文
 refilled
     英文
 refilling
@@ -96855,9 +96855,9 @@ refinanced
 refinances
     英文
 refinancing
-    拼音
+    英文
 refine
-    拼音
+    英文
 refined
     英文
 refinement
@@ -96871,7 +96871,7 @@ refinery
 refines
     英文
 refining
-    拼音
+    英文
 refinish
     英文
 refit
@@ -97079,7 +97079,7 @@ refuser
 refuses
     英文
 refusing
-    拼音
+    英文
 refutation
     英文
 refute
@@ -97155,11 +97155,11 @@ reggie
 reggy
     英文
 regicide
-    拼音
+    英文
 regime
-    拼音
+    英文
 regimen
-    拼音
+    英文
 regiment
     英文
 regimental
@@ -97167,7 +97167,7 @@ regimental
 regimentation
     英文
 regina
-    拼音
+    英文
 reginae
     英文
 reginald
@@ -97175,7 +97175,7 @@ reginald
 reginauld
     英文
 regine
-    拼音
+    英文
 region
     英文
 regional
@@ -97259,7 +97259,7 @@ regularity
 regularization
     英文
 regularize
-    拼音
+    英文
 regularly
     英文
 regulate
@@ -97305,7 +97305,7 @@ rehashed
 rehashes
     英文
 rehashing
-    拼音
+    英文
 rehear
     英文
 reheard
@@ -97339,7 +97339,7 @@ rehired
 rehires
     英文
 rehiring
-    拼音
+    英文
 rehnquist
     英文
 rehoused
@@ -97347,7 +97347,7 @@ rehoused
 rehouses
     英文
 rehousing
-    拼音
+    英文
 rehung
     英文
 rehydrate
@@ -97793,7 +97793,7 @@ remake
 remakes
     英文
 remaking
-    拼音
+    英文
 remand
     英文
 remap
@@ -97911,7 +97911,7 @@ remonetized
 remonetizes
     英文
 remonetizing
-    拼音
+    英文
 remonstrances
     英文
 remonstrant
@@ -98015,7 +98015,7 @@ render
 renderer
     英文
 rendering
-    拼音
+    英文
 renderings
     英文
 renders
@@ -98451,7 +98451,7 @@ reposeful
 reposes
     英文
 reposing
-    拼音
+    英文
 repositioned
     英文
 repositioning
@@ -98699,7 +98699,7 @@ requirement
 requires
     英文
 requiring
-    拼音
+    英文
 requisite
     拼音
 requisiteness
@@ -99361,7 +99361,7 @@ retaken
 retakes
     英文
 retaking
-    拼音
+    英文
 retaliate
     英文
 retaliation
@@ -99455,7 +99455,7 @@ retirement
 retires
     英文
 retiring
-    拼音
+    英文
 retold
     英文
 retook
@@ -99475,7 +99475,7 @@ retouched
 retouches
     英文
 retouching
-    拼音
+    英文
 retraced
     英文
 retraces
@@ -99923,7 +99923,7 @@ rewashed
 rewashes
     英文
 rewashing
-    拼音
+    英文
 reweave
     英文
 reweaves
@@ -99943,7 +99943,7 @@ rewind
 rewinds
     英文
 rewire
-    拼音
+    英文
 rewired
     英文
 rewires
@@ -100147,7 +100147,7 @@ rhythmical
 rhythmics
     英文
 ri
-    拼音
+    英文
 rial
     英文
 riane
@@ -100185,9 +100185,9 @@ ribosome
 ric
     英文
 rica
-    拼音
+    英文
 rican
-    拼音
+    英文
 ricard
     英文
 ricardo
@@ -100197,7 +100197,7 @@ ricca
 riccardo
     英文
 rice
-    拼音
+    英文
 ricer
     英文
 rich
@@ -100213,13 +100213,13 @@ richart
 richelieu
     英文
 richen
-    拼音
+    英文
 richey
     英文
 richfield
     英文
 richie
-    拼音
+    英文
 richland
     英文
 richmond
@@ -100235,7 +100235,7 @@ richthofen
 richy
     英文
 rici
-    拼音
+    英文
 rick
     英文
 rickard
@@ -100283,7 +100283,7 @@ ridding
 riddle
     英文
 ride
-    拼音
+    英文
 rider
     英文
 riderless
@@ -100303,7 +100303,7 @@ ridgway
 ridgy
     英文
 ridicule
-    拼音
+    英文
 ridiculer
     英文
 ridiculous
@@ -100311,7 +100311,7 @@ ridiculous
 ridiculousness
     英文
 riding
-    拼音
+    英文
 riemann
     英文
 riesling
@@ -100343,7 +100343,7 @@ rift
 rig
     英文
 riga
-    拼音
+    英文
 rigamarole
     英文
 rigatoni
@@ -100411,11 +100411,11 @@ rigorousness
 rik
     英文
 riki
-    拼音
+    英文
 rikki
     英文
 rile
-    拼音
+    英文
 riley
     英文
 rilke
@@ -100427,13 +100427,13 @@ rim
 rimbaud
     英文
 rime
-    拼音
+    英文
 rimed
     英文
 rimer
     英文
 riming
-    拼音
+    英文
 rimless
     英文
 rimmed
@@ -100441,7 +100441,7 @@ rimmed
 rimming
     英文
 rina
-    拼音
+    英文
 rinaldo
     英文
 rind
@@ -100449,21 +100449,21 @@ rind
 rinehart
     英文
 ring
-    拼音
+    英文
 ringer
-    拼音
+    英文
 ringers
     英文
 ringing
-    拼音
+    英文
 ringleader
     英文
 ringlet
     英文
 ringlike
-    拼音
+    英文
 ringling
-    拼音
+    英文
 ringmaster
     英文
 ringo
@@ -100471,7 +100471,7 @@ ringo
 rings
     英文
 ringside
-    拼音
+    英文
 ringworm
     英文
 rink
@@ -100497,13 +100497,13 @@ riotousness
 rip
     英文
 riparian
-    拼音
+    英文
 ripcord
     英文
 ripe
     英文
 ripen
-    拼音
+    英文
 ripened
     英文
 ripeness
@@ -100539,13 +100539,13 @@ ripsaw
 riptide
     英文
 risa
-    拼音
+    英文
 risc
     英文
 rise
-    拼音
+    英文
 risen
-    拼音
+    英文
 riser
     英文
 risers
@@ -100555,7 +100555,7 @@ risibility
 risible
     英文
 rising
-    拼音
+    英文
 risings
     英文
 risk
@@ -100571,13 +100571,13 @@ risky
 risotto
     英文
 rita
-    拼音
+    英文
 ritalin
-    拼音
+    英文
 ritchie
     英文
 rite
-    拼音
+    英文
 ritter
     英文
 ritual
@@ -101961,7 +101961,7 @@ rushers
 rushes
     英文
 rushing
-    拼音
+    英文
 rushmore
     英文
 rushy
@@ -102259,7 +102259,7 @@ sadr
 sadye
     英文
 safari
-    拼音
+    英文
 safe
     英文
 safeguard
@@ -102379,7 +102379,7 @@ sakhalin
 sakharov
     英文
 saki
-    拼音
+    英文
 sal
     英文
 salaam
@@ -102611,7 +102611,7 @@ samara
 samaria
     英文
 samaritan
-    拼音
+    英文
 samarium
     英文
 samarkand
@@ -102975,13 +102975,13 @@ sargent
 sargon
     英文
 sari
-    拼音
+    英文
 sarina
-    拼音
+    英文
 sarine
-    拼音
+    英文
 sarita
-    拼音
+    英文
 sarnoff
     英文
 sarong
@@ -103071,7 +103071,7 @@ satirical
 satirist
     英文
 satirize
-    拼音
+    英文
 satirizes
     英文
 satisfaction
@@ -104623,7 +104623,7 @@ secularity
 secularization
     英文
 secularize
-    拼音
+    英文
 secularized
     英文
 secure
@@ -104833,7 +104833,7 @@ seizers
 seizin
     拼音
 seizing
-    拼音
+    英文
 seizings
     英文
 seizor
@@ -104993,7 +104993,7 @@ semiconductor
 semiconscious
     英文
 semidefinite
-    拼音
+    英文
 semidetached
     英文
 semidrying
@@ -105167,7 +105167,7 @@ sensibleness
 sensibly
     英文
 sensing
-    拼音
+    英文
 sensitive
     英文
 sensitiveness
@@ -105623,7 +105623,7 @@ sewer
 sewerage
     英文
 sewing
-    拼音
+    英文
 sewn
     英文
 sex
@@ -105781,7 +105781,7 @@ shakily
 shakiness
     英文
 shaking
-    拼音
+    英文
 shaky
     英文
 shale
@@ -106021,7 +106021,7 @@ sharers
 shareware
     拼音
 shari
-    拼音
+    英文
 sharia
     英文
 sharity
@@ -106339,9 +106339,9 @@ sherd
 sheree
     英文
 sheri
-    拼音
+    英文
 sheridan
-    拼音
+    英文
 sherie
     拼音
 sheriff
@@ -106473,7 +106473,7 @@ shiner
 shiners
     英文
 shingle
-    拼音
+    英文
 shingler
     英文
 shinguard
@@ -107647,7 +107647,7 @@ sinful
 sinfulness
     英文
 sing
-    拼音
+    英文
 singapore
     拼音
 singaporean
@@ -107661,13 +107661,13 @@ singed
 singeing
     英文
 singer
-    拼音
+    英文
 singers
     英文
 singing
-    拼音
+    英文
 single
-    拼音
+    英文
 singlehanded
     英文
 singleness
@@ -107681,7 +107681,7 @@ singletree
 sings
     英文
 singsong
-    拼音
+    英文
 singular
     英文
 singularity
@@ -107707,9 +107707,9 @@ sinkers
 sinkhole
     英文
 sinkiang
-    拼音
+    英文
 sinking
-    拼音
+    英文
 sinless
     英文
 sinlessness
@@ -107769,7 +107769,7 @@ sirens
 sires
     英文
 siring
-    拼音
+    英文
 sirius
     英文
 sirloin
@@ -107889,7 +107889,7 @@ sizer
 sizes
     英文
 sizing
-    拼音
+    英文
 sizzle
     英文
 sizzler
@@ -109943,7 +109943,7 @@ soused
 souses
     英文
 sousing
-    拼音
+    英文
 south
     英文
 southampton
@@ -113875,7 +113875,7 @@ suffusion
 suffusions
     英文
 sufi
-    拼音
+    英文
 sufism
     英文
 sugar
@@ -113939,9 +113939,9 @@ sukarno
 sukey
     英文
 suki
-    拼音
+    英文
 sukiyaki
-    拼音
+    英文
 sukkot
     英文
 sukkoth
@@ -114175,7 +114175,7 @@ sunny
 sunnyvale
     英文
 sunrise
-    拼音
+    英文
 sunroof
     英文
 sunscreen
@@ -114553,7 +114553,7 @@ sure
 sured
     英文
 surefire
-    拼音
+    英文
 surefooted
     英文
 surely
@@ -114605,9 +114605,9 @@ surgical
 surinam
     英文
 suriname
-    拼音
+    英文
 surinamese
-    拼音
+    英文
 surliness
     英文
 surly
@@ -114827,7 +114827,7 @@ suzi
 suzie
     拼音
 suzuki
-    拼音
+    英文
 suzy
     英文
 svalbard
@@ -115755,9 +115755,9 @@ tagore
 tagus
     英文
 tahiti
-    拼音
+    英文
 tahitian
-    拼音
+    英文
 tahoe
     英文
 taichung
@@ -115835,7 +115835,7 @@ takers
 takes
     英文
 taking
-    拼音
+    英文
 takings
     英文
 taklamakan
@@ -116069,7 +116069,7 @@ tangent
 tangential
     英文
 tangerine
-    拼音
+    英文
 tangibility
     英文
 tangible
@@ -116079,7 +116079,7 @@ tangibleness
 tangibly
     英文
 tangier
-    拼音
+    英文
 tangle
     拼音
 tango
@@ -116141,7 +116141,7 @@ tantalized
 tantalizers
     英文
 tantalizing
-    拼音
+    英文
 tantalizingly
     英文
 tantalizingness
@@ -116241,7 +116241,7 @@ tariff
 tarim
     英文
 taring
-    拼音
+    英文
 tarkington
     英文
 tarmac
@@ -117031,9 +117031,9 @@ tenderhearted
 tenderheartedness
     英文
 tendering
-    拼音
+    英文
 tenderize
-    拼音
+    英文
 tenderizer
     英文
 tenderizers
@@ -117101,7 +117101,7 @@ tenses
 tensile
     拼音
 tensing
-    拼音
+    英文
 tension
     英文
 tensional
@@ -117197,7 +117197,7 @@ teresita
 teressa
     英文
 teri
-    拼音
+    英文
 teriann
     英文
 terkel
@@ -118785,7 +118785,7 @@ tinged
 tingeing
     英文
 tinging
-    拼音
+    英文
 tingle
     拼音
 tingling
@@ -118923,7 +118923,7 @@ tiresome
 tiresomeness
     英文
 tiring
-    拼音
+    英文
 tiro
     英文
 tirol
@@ -119713,7 +119713,7 @@ touchily
 touchiness
     英文
 touching
-    拼音
+    英文
 touchline
     英文
 touchscreen
@@ -119749,7 +119749,7 @@ tourer
 tourers
     英文
 touring
-    拼音
+    英文
 tourism
     英文
 tourist
@@ -121611,7 +121611,7 @@ turgidness
 turin
     拼音
 turing
-    拼音
+    英文
 turk
     英文
 turkestan
@@ -126955,7 +126955,7 @@ waggle
 waggly
     英文
 waging
-    拼音
+    英文
 wagner
     英文
 wagnerian
@@ -126973,7 +126973,7 @@ wahl
 waif
     英文
 waikiki
-    拼音
+    英文
 wail
     英文
 wailer
@@ -127331,7 +127331,7 @@ warehouse
 warehouseman
     拼音
 warehousing
-    拼音
+    英文
 warfare
     英文
 warfield
@@ -127349,7 +127349,7 @@ wariness
 warinesses
     英文
 waring
-    拼音
+    英文
 warless
     英文
 warlike
@@ -127479,7 +127479,7 @@ washerwoman
 washerwomen
     英文
 washing
-    拼音
+    英文
 washington
     英文
 washingtonian
@@ -127617,7 +127617,7 @@ waterhouse
 wateriness
     英文
 watering
-    拼音
+    英文
 waterless
     英文
 waterlily
@@ -128773,11 +128773,11 @@ why
 whys
     英文
 wi
-    拼音
+    英文
 wiatt
     英文
 wichita
-    拼音
+    英文
 wick
     英文
 wicked
@@ -128795,15 +128795,15 @@ wicketkeeper
 wicking
     英文
 wide
-    拼音
+    英文
 widely
     英文
 widemouthed
     英文
 widen
-    拼音
+    英文
 widener
-    拼音
+    英文
 wideners
     英文
 wideness
@@ -128837,11 +128837,11 @@ wielders
 wiemar
     英文
 wiener
-    拼音
+    英文
 wienie
     拼音
 wier
-    拼音
+    英文
 wiesel
     英文
 wife
@@ -128933,9 +128933,9 @@ wildness
 wildon
     英文
 wile
-    拼音
+    英文
 wileen
-    拼音
+    英文
 wilek
     英文
 wiley
@@ -128957,7 +128957,7 @@ wilhelmina
 wilhelmine
     英文
 wilie
-    拼音
+    英文
 wilily
     英文
 wiliness
@@ -129177,7 +129177,7 @@ windward
 windy
     英文
 wine
-    拼音
+    英文
 wined
     英文
 wineglass
@@ -129187,7 +129187,7 @@ winegrower
 winehead
     英文
 winemake
-    拼音
+    英文
 winemaster
     英文
 winery
@@ -129203,25 +129203,25 @@ winfred
 winfrey
     英文
 wing
-    拼音
+    英文
 wingback
     英文
 wingding
-    拼音
+    英文
 wingeing
     英文
 winger
-    拼音
+    英文
 wingers
     英文
 wingless
     英文
 winglike
-    拼音
+    英文
 wingman
-    拼音
+    英文
 wingmen
-    拼音
+    英文
 wings
     英文
 wingspan
@@ -129231,13 +129231,13 @@ wingspread
 wingtip
     英文
 wini
-    拼音
+    英文
 winifield
     英文
 winifred
     英文
 wining
-    拼音
+    英文
 wink
     英文
 winker
@@ -129245,7 +129245,7 @@ winker
 winkers
     英文
 winking
-    拼音
+    英文
 winkle
     英文
 winless
@@ -129309,7 +129309,7 @@ winterer
 wintergreen
     英文
 winterize
-    拼音
+    英文
 winters
     英文
 wintertime
@@ -129329,15 +129329,15 @@ wiper
 wipers
     英文
 wire
-    拼音
+    英文
 wirehair
     英文
 wireless
     英文
 wireman
-    拼音
+    英文
 wiremen
-    拼音
+    英文
 wirer
     英文
 wires
@@ -129353,7 +129353,7 @@ wiretapping
 wiriness
     英文
 wiring
-    拼音
+    英文
 wiry
     英文
 wis
@@ -129369,7 +129369,7 @@ wisdom
 wisdoms
     英文
 wise
-    拼音
+    英文
 wiseacre
     英文
 wisecrack
@@ -129397,7 +129397,7 @@ wishfulness
 wishy
     英文
 wising
-    拼音
+    英文
 wisp
     英文
 wispy
@@ -129515,7 +129515,7 @@ wizard
 wizardry
     英文
 wizen
-    拼音
+    英文
 wk
     英文
 wm
@@ -130461,7 +130461,7 @@ yachtswomen
 yack
     英文
 yagi
-    拼音
+    英文
 yahoo
     英文
 yahweh
@@ -130469,7 +130469,7 @@ yahweh
 yak
     英文
 yakima
-    拼音
+    英文
 yakked
     英文
 yakking
@@ -130951,7 +130951,7 @@ yuh
 yuk
     英文
 yuki
-    拼音
+    英文
 yukked
     英文
 yukking
@@ -130979,7 +130979,7 @@ yup
 yuppie
     英文
 yuri
-    拼音
+    英文
 yurik
     英文
 yurt
@@ -131299,7 +131299,7 @@ zincked
 zincking
     英文
 zing
-    拼音
+    英文
 zings
     英文
 zingy
